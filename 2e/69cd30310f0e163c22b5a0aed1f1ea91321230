@@ -1,0 +1,19 @@
+src/app/(app)/(admin)/security/findings/__tests__/page.test.tsx
+  h_206b40f42abaf2 31,60-64,97-100,141-148,272,280,295,299-332,338-340,372,379,401
+src/app/(app)/(admin)/security/findings/page.tsx
+  h_206b40f42abaf2 25,247-256,273-297,326-336,339,342-364,373-377
+src/lib/api/cve-findings.ts
+  h_206b40f42abaf2 20,22-26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "2e69cd30310f0e163c22b5a0aed1f1ea91321230",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
