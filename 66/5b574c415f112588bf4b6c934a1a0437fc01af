@@ -1,0 +1,15 @@
+src/app/(app)/(admin)/security/__tests__/page.test.tsx
+  h_206b40f42abaf2 615,619
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "665b574c415f112588bf4b6c934a1a0437fc01af",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
