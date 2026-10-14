@@ -4,5 +4,14 @@
   "git_ai_version": "1.7.6",
   "base_commit_sha": "4fa3d6a5ffca3783f4ee508891aac32f89ad36b9",
   "prompts": {},
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "git_diff_deleted_lines": 8,
+    "git_diff_added_lines": 0,
+    "tool_model_breakdown": {}
+  },
   "proton_build": "1.7.6-proton.8"
 }
