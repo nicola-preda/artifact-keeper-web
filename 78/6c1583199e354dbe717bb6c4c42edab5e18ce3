@@ -1,0 +1,49 @@
+src/app/(app)/(admin)/age-gate/page.test.tsx
+  h_206b40f42abaf2 232,235-236,239-241,244-248
+src/app/(app)/(admin)/age-gate/page.tsx
+  h_206b40f42abaf2 8-15,33-34,70-83,90-100,144-148,160-164,166-172,219-223,227,239-243,276-301,326,333,345,353,472-500,521
+src/components/layout/__tests__/app-sidebar.test.tsx
+  h_206b40f42abaf2 395,398
+src/components/layout/app-sidebar.tsx
+  h_206b40f42abaf2 118-124
+src/lib/api/__tests__/age-gate.test.ts
+  h_206b40f42abaf2 123,132-152,154
+src/lib/api/age-gate.ts
+  h_206b40f42abaf2 17-26,227-246,300,312
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "786c1583199e354dbe717bb6c4c42edab5e18ce3",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "token_usage": {
+    "carried": {
+      "total": {
+        "input_tokens": 3446,
+        "output_tokens": 1308922,
+        "cache_creation_input_tokens": 13207948,
+        "cache_read_input_tokens": 282646376
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5": {
+          "input_tokens": 3302,
+          "output_tokens": 1251692,
+          "cache_creation_input_tokens": 13040734,
+          "cache_read_input_tokens": 275702380
+        },
+        "claude::claude-sonnet-5": {
+          "input_tokens": 144,
+          "output_tokens": 57230,
+          "cache_creation_input_tokens": 167214,
+          "cache_read_input_tokens": 6943996
+        }
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
