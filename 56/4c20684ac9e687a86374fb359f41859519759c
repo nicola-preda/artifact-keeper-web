@@ -1,0 +1,45 @@
+src/app/(app)/(admin)/permissions/page.test.tsx
+  h_206b40f42abaf2 512-514
+src/app/(app)/(admin)/permissions/page.tsx
+  h_206b40f42abaf2 17-25,164-169,259-260,264,568,575,612-639
+src/app/(app)/repositories/_components/repo-detail-content.tsx
+  h_206b40f42abaf2 118,208-217,463,483,1156,1166-1168,1219-1222,1240,1267,1273,1279,1485,1494,1513,1527,1530,1642,1649,1651-1654,1659,1989-2004
+src/app/(app)/repositories/_components/repo-dialogs.tsx
+  h_206b40f42abaf2 119-127,156-157,277-283,702-732,780
+src/app/(app)/repositories/_components/repo-settings-tab.tsx
+  h_206b40f42abaf2 18,20,186-187,190,566-584,588-593,883,904,1700-1733
+src/app/(app)/repositories/_components/repositories-content.test.tsx
+  h_206b40f42abaf2 286-307
+src/app/(app)/repositories/_components/repositories-content.tsx
+  h_206b40f42abaf2 43-47,276-288,469,510-511
+src/components/auth/require-capability.tsx
+  h_206b40f42abaf2 11-21
+src/hooks/use-admin-settings.ts
+  h_206b40f42abaf2 13-15,21
+src/hooks/use-repo-actions.ts
+  h_206b40f42abaf2 1-38
+src/lib/__tests__/permission-roles.test.ts
+  h_206b40f42abaf2 1-42
+src/lib/api/permissions.ts
+  h_206b40f42abaf2 20-23
+src/lib/api/projects.ts
+  h_206b40f42abaf2 1-21
+src/lib/api/repositories.ts
+  h_206b40f42abaf2 39-42,393-395,614-633
+src/lib/permission-roles.ts
+  h_206b40f42abaf2 1-59
+src/types/index.ts
+  h_206b40f42abaf2 254-260
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "564c20684ac9e687a86374fb359f41859519759c",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
