@@ -1,0 +1,63 @@
+CHANGELOG.md
+  h_206b40f42abaf2 10-12
+src/app/(app)/(admin)/permissions/page.test.tsx
+  h_206b40f42abaf2 39-43,415-417,520-522,974-1027
+src/app/(app)/(admin)/permissions/page.tsx
+  h_206b40f42abaf2 18-26,165-170,260-261,265,569,576,627-654
+src/app/(app)/repositories/_components/repo-detail-content.test.tsx
+  h_206b40f42abaf2 45-47,132-134,150,952-986
+src/app/(app)/repositories/_components/repo-detail-content.tsx
+  h_206b40f42abaf2 118,209-218,464,484,1150,1160-1162,1213-1216,1234,1261,1267,1273,1487,1496,1515,1529,1532,1644,1651,1653-1657,1662,1992-2007
+src/app/(app)/repositories/_components/repo-dialogs.test.tsx
+  h_206b40f42abaf2 2478-2527
+src/app/(app)/repositories/_components/repo-dialogs.tsx
+  h_206b40f42abaf2 123-131,160-161,290-296,744-774,822
+src/app/(app)/repositories/_components/repo-settings-tab.test.tsx
+  h_206b40f42abaf2 77-78,81-82,2740-2804
+src/app/(app)/repositories/_components/repo-settings-tab.tsx
+  h_206b40f42abaf2 18,20,193-194,197,628-646,650-655,974,995,1814-1847
+src/app/(app)/repositories/_components/repositories-content.test.tsx
+  h_206b40f42abaf2 72-76,291-320
+src/app/(app)/repositories/_components/repositories-content.tsx
+  h_206b40f42abaf2 43-47,276-288,469,510-511
+src/components/auth/__tests__/require-capability.test.tsx
+  h_206b40f42abaf2 1-139
+src/components/auth/require-capability.tsx
+  h_206b40f42abaf2 1-84
+src/hooks/__tests__/use-admin-settings.test.ts
+  h_206b40f42abaf2 64-74
+src/hooks/__tests__/use-repo-actions.test.ts
+  h_206b40f42abaf2 1-66
+src/hooks/use-admin-settings.ts
+  h_206b40f42abaf2 13-15,21
+src/hooks/use-repo-actions.ts
+  h_206b40f42abaf2 1-38
+src/lib/__tests__/permission-roles.test.ts
+  h_206b40f42abaf2 1-42
+src/lib/api/__tests__/projects.test.ts
+  h_206b40f42abaf2 1-31
+src/lib/api/__tests__/repositories.test.ts
+  h_206b40f42abaf2 1490-1521
+src/lib/api/permissions.ts
+  h_206b40f42abaf2 20-23
+src/lib/api/projects.ts
+  h_206b40f42abaf2 1-21
+src/lib/api/repositories.ts
+  h_206b40f42abaf2 110-113,479-481,716-735
+src/lib/permission-roles.ts
+  h_206b40f42abaf2 1-59
+src/types/index.ts
+  h_206b40f42abaf2 38-44,265-271
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "d9b268d3c96d5747a5abd925c1122fbf625696b9",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
