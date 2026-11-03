@@ -1,0 +1,19 @@
+CHANGELOG.md
+  h_206b40f42abaf2 10-12
+src/app/(app)/(admin)/migration/__tests__/page.test.tsx
+  h_206b40f42abaf2 391,934-935,943,990,1008,1021,1026-1079
+src/app/(app)/(admin)/migration/page.tsx
+  h_206b40f42abaf2 139-161,174-175,190,336,410-413,415-416,423-424,456-472,592,599-616,817,821,912,1193-1213,1730
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "79b68f967e0c581f3abfdfcdc25693379e7da70a",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
