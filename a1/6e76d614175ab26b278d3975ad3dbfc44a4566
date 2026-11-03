@@ -1,0 +1,17 @@
+src/app/(app)/(admin)/migration/__tests__/page.test.tsx
+  h_206b40f42abaf2 391,934-935,943,990,1008,1021,1026-1049
+src/app/(app)/(admin)/migration/page.tsx
+  h_206b40f42abaf2 139-149,162-163,178,324,398-401,403-404,411-412,568-583,796,891,1172-1192,1709
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "a16e76d614175ab26b278d3975ad3dbfc44a4566",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
