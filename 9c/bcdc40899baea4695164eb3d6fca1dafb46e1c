@@ -1,0 +1,23 @@
+CHANGELOG.md
+  h_206b40f42abaf2 24
+src/lib/__tests__/proxy-scan.test.ts
+  h_206b40f42abaf2 241-260
+src/lib/api/__tests__/proxy-scans.test.ts
+  h_206b40f42abaf2 172-183
+src/lib/proxy-scan.ts
+  h_206b40f42abaf2 243-247,303-305
+src/types/proxy-scans.ts
+  h_206b40f42abaf2 69-73,76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "9cbcdc40899baea4695164eb3d6fca1dafb46e1c",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
