@@ -1,0 +1,27 @@
+CHANGELOG.md
+  h_206b40f42abaf2 12
+e2e/suites/interactions/admin/downloads-anonymous.spec.ts
+  h_206b40f42abaf2 1-66
+src/app/(app)/(admin)/downloads/__tests__/page.test.tsx
+  h_206b40f42abaf2 31,40,58,235-237,253-255,262,392-474,744
+src/app/(app)/(admin)/downloads/page.tsx
+  h_206b40f42abaf2 3-4,18,24-25,56-57,67,71-75,112,201,206-210,222-244,259-260,274-275,317-326,345-349,565-580,589,660,670-691
+src/lib/api/__tests__/downloads.test.ts
+  h_206b40f42abaf2 113-123
+src/lib/api/downloads.ts
+  h_206b40f42abaf2 10-12,81-82,177-178
+src/lib/backend-version.ts
+  h_206b40f42abaf2 65-71
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "644b68a9a50c0b5e7bf7a642492debd66816a8ad",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
