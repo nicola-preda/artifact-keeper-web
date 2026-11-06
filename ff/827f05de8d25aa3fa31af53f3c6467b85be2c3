@@ -1,0 +1,27 @@
+CHANGELOG.md
+  h_206b40f42abaf2 21
+e2e/suites/interactions/auth/expired-access-cookie.spec.ts
+  h_206b40f42abaf2 1-30
+src/lib/__tests__/sdk-client.test.ts
+  h_206b40f42abaf2 1095-1191
+src/lib/sdk-client.ts
+  h_206b40f42abaf2 140-141,165-205,253
+src/providers/__tests__/auth-provider.test.tsx
+  h_206b40f42abaf2 12-22,106-108,384-460
+src/providers/__tests__/auth-system-config.test.tsx
+  h_206b40f42abaf2 16-19
+src/providers/auth-provider.tsx
+  h_206b40f42abaf2 13,273-277,283-284,325-331
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ff827f05de8d25aa3fa31af53f3c6467b85be2c3",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
