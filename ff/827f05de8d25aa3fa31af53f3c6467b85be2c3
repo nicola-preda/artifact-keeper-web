@@ -23,5 +23,14 @@ src/providers/auth-provider.tsx
       "author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
+  "commit_stats": {
+    "human_additions": 282,
+    "unknown_additions": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "git_diff_deleted_lines": 46,
+    "git_diff_added_lines": 282,
+    "tool_model_breakdown": {}
+  },
   "proton_build": "1.7.6-proton.8"
 }
