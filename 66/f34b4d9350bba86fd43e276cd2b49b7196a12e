@@ -30,6 +30,20 @@ src/types/proxy-scans.ts
       "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 6,
+    "ai_additions": 280,
+    "ai_accepted": 280,
+    "git_diff_deleted_lines": 86,
+    "git_diff_added_lines": 286,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 280,
+        "ai_accepted": 280
+      }
+    }
+  },
   "token_usage": {
     "attributable": {
       "total": {
