@@ -1,0 +1,68 @@
+CHANGELOG.md
+  s_91241db92deb5d::t_5ae780b536ebf9 21
+src/app/(app)/repositories/_components/repo-dialogs.test.tsx
+  s_91241db92deb5d::t_0d2f4d1972a11d 2708-2757
+src/app/(app)/repositories/_components/repo-dialogs.tsx
+  s_91241db92deb5d::t_bab5bfffa832b0 148-156,185-186,340-346,832-862,910
+src/app/(app)/repositories/_components/repositories-content.test.tsx
+  s_91241db92deb5d::t_82837d065390b9 72-76,291-329
+src/app/(app)/repositories/_components/repositories-content.tsx
+  s_91241db92deb5d::t_039658c02a179e 43,274-289,470,511-512
+src/lib/api/__tests__/projects.test.ts
+  s_91241db92deb5d::t_110baccc2ae803 1-31
+src/lib/api/__tests__/repositories.test.ts
+  s_91241db92deb5d::t_2b85f14f4ae17c 1490-1499
+src/lib/api/projects.ts
+  s_91241db92deb5d::t_2628fdd5ee2ec9 1-21
+src/lib/api/repositories.ts
+  s_91241db92deb5d::t_97b99fdc21cc0d 481-483
+src/types/index.ts
+  s_91241db92deb5d::t_0ccf55a163448e 39-45,268-274
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b1fcec26e63f7b313bd9daf5ffd41ccedddfafc7",
+  "prompts": {},
+  "sessions": {
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 28,
+        "output_tokens": 6266,
+        "cache_creation_input_tokens": 1117729,
+        "cache_read_input_tokens": 4007865
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 28,
+          "output_tokens": 6266,
+          "cache_creation_input_tokens": 1117729,
+          "cache_read_input_tokens": 4007865
+        }
+      },
+      "tool_uses": {
+        "agent": 1,
+        "bash": 3
+      }
+    },
+    "by_prompt": {
+      "s_91241db92deb5d": {
+        "input_tokens": 28,
+        "output_tokens": 6266,
+        "cache_creation_input_tokens": 1117729,
+        "cache_read_input_tokens": 4007865
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
