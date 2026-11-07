@@ -1,0 +1,30 @@
+e2e/suites/interactions/repositories/repo-tab-gating.spec.ts
+  s_91241db92deb5d::t_02d37576c6c5a1 1-53
+src/app/(app)/repositories/_components/__tests__/repo-detail-tab-gating.test.tsx
+  s_91241db92deb5d::t_b9a1dfe812bb39 1-185
+src/app/(app)/repositories/_components/pypi-tracks-panel.tsx
+  s_91241db92deb5d::t_49b263eaf019f8 24-28,81-82,84
+src/app/(app)/repositories/_components/repo-detail-content.tsx
+  s_91241db92deb5d::t_9c46e88a86fe45 114-115,306-320,1260-1265,1273,1519-1524,1535
+src/lib/__tests__/repo-tabs.test.ts
+  s_91241db92deb5d::t_6b63985fdac3d9 6,98-117
+src/lib/repo-tabs.ts
+  s_91241db92deb5d::t_eb2eaa63e535fb 73-93
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "ec05fcda93facabfca2bc699a1e562f784ba9254",
+  "prompts": {},
+  "sessions": {
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
