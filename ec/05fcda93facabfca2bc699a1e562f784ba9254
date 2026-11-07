@@ -26,5 +26,19 @@ src/lib/repo-tabs.ts
       "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 319,
+    "ai_accepted": 319,
+    "git_diff_deleted_lines": 26,
+    "git_diff_added_lines": 319,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 319,
+        "ai_accepted": 319
+      }
+    }
+  },
   "proton_build": "1.7.6-proton.8"
 }
