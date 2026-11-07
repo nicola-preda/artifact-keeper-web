@@ -1,0 +1,24 @@
+e2e/suites/interactions/admin/permissions-pagination.spec.ts
+  s_91241db92deb5d::t_4c666b7f7fcc4b 1-21
+src/app/(app)/(admin)/permissions/page.test.tsx
+  s_91241db92deb5d::t_491632849ea480 469-494
+src/app/(app)/(admin)/permissions/page.tsx
+  s_91241db92deb5d::t_59e6a0f78440ad 121-123,141-143,145-146,148,189,715,736-744
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "31a62ccfa943f9276e34222f05d88049d5d539be",
+  "prompts": {},
+  "sessions": {
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
