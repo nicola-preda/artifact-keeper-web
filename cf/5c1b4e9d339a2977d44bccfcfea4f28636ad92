@@ -1,0 +1,17 @@
+src/app/(app)/repositories/_components/__tests__/repo-detail-server-sort.test.tsx
+  h_206b40f42abaf2 172
+src/lib/backend-version.ts
+  h_206b40f42abaf2 78-79
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "cf5c1b4e9d339a2977d44bccfcfea4f28636ad92",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
