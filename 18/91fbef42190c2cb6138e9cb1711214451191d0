@@ -1,0 +1,17 @@
+src/app/(app)/_components/__tests__/dashboard-content.test.tsx
+  h_206b40f42abaf2 331-345
+src/app/(app)/_components/dashboard-content.tsx
+  h_206b40f42abaf2 22,292,564,566-570
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1891fbef42190c2cb6138e9cb1711214451191d0",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
