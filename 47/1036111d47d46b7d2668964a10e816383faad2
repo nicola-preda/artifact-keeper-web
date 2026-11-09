@@ -1,0 +1,31 @@
+src/app/(app)/(admin)/groups/__tests__/page.test.tsx
+  h_206b40f42abaf2 98-116,459-507
+src/app/(app)/(admin)/groups/page.tsx
+  h_206b40f42abaf2 57,99-104,274
+src/app/(app)/(admin)/users/__tests__/page.test.tsx
+  h_206b40f42abaf2 104-111,2057-2098
+src/app/(app)/(admin)/users/page.tsx
+  h_206b40f42abaf2 61,151-156,399
+src/app/(app)/exceptions/page.test.tsx
+  h_206b40f42abaf2 37,40,49,62,111-115,260,266,270-310
+src/app/(app)/exceptions/page.tsx
+  h_206b40f42abaf2 52,181-217,410-411
+src/components/common/security-reviewer-switch.tsx
+  h_206b40f42abaf2 1-80
+src/lib/api/__tests__/security-reviewers.test.ts
+  h_206b40f42abaf2 1-47
+src/lib/api/security-reviewers.ts
+  h_206b40f42abaf2 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "471036111d47d46b7d2668964a10e816383faad2",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
