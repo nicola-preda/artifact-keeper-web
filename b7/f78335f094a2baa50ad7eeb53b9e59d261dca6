@@ -1,0 +1,23 @@
+e2e/suites/interactions/admin/blast-radius.spec.ts
+  h_206b40f42abaf2 82-104,170-179
+src/app/(app)/(admin)/security/blast-radius/__tests__/page.test.tsx
+  h_206b40f42abaf2 572-639
+src/app/(app)/(admin)/security/blast-radius/page.tsx
+  h_206b40f42abaf2 4,30,332,339,341-344,351-357,402-461,738-760
+src/lib/api/__tests__/blast-radius.test.ts
+  h_206b40f42abaf2 111-156
+src/lib/api/blast-radius.ts
+  h_206b40f42abaf2 32-50,151-163,169-170,178,200-210,424,438
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b7f78335f094a2baa50ad7eeb53b9e59d261dca6",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
