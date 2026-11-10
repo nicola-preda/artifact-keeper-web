@@ -1,0 +1,66 @@
+src/app/(app)/(admin)/groups/__tests__/page.test.tsx
+  s_c3cb26384f2544::t_8d527e6b2b69df 98-116,459-507
+src/app/(app)/(admin)/groups/page.tsx
+  s_c3cb26384f2544::t_8909a1560dce43 57,99-104,274
+src/app/(app)/(admin)/users/__tests__/page.test.tsx
+  s_c3cb26384f2544::t_059c5ea3bac251 104-111,2057-2098
+src/app/(app)/(admin)/users/page.tsx
+  s_c3cb26384f2544::t_2afd099df19e95 61,151-156,399
+src/app/(app)/exceptions/page.test.tsx
+  s_c3cb26384f2544::t_7c2295a270d630 1-943
+src/app/(app)/exceptions/page.tsx
+  s_c3cb26384f2544::t_ac2683bd3d9dfb 1-887
+src/components/common/security-reviewer-switch.tsx
+  s_c3cb26384f2544::t_4de30b2e1d88a2 1-81
+src/lib/api/__tests__/security-reviewers.test.ts
+  s_c3cb26384f2544::t_77dc8a4abbd952 1-47
+src/lib/api/security-reviewers.ts
+  s_c3cb26384f2544::t_9334ad493a1dc5 1-38
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "0bc451b5531004accbba5ec42ad0684f8c818dfd",
+  "prompts": {},
+  "sessions": {
+    "s_c3cb26384f2544": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1e5dbbc4-e58d-4248-ae16-52eee0711c78",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 22,
+        "output_tokens": 3575,
+        "cache_creation_input_tokens": 8465,
+        "cache_read_input_tokens": 6124757
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 22,
+          "output_tokens": 3575,
+          "cache_creation_input_tokens": 8465,
+          "cache_read_input_tokens": 6124757
+        }
+      },
+      "tool_uses": {
+        "bash": 4,
+        "workflow": 2
+      }
+    },
+    "by_prompt": {
+      "s_c3cb26384f2544": {
+        "input_tokens": 22,
+        "output_tokens": 3575,
+        "cache_creation_input_tokens": 8465,
+        "cache_read_input_tokens": 6124757
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
