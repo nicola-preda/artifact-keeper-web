@@ -1,0 +1,66 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_0284e80b4f9e5f 18
+e2e/suites/interactions/admin/system-config-feature-flags.spec.ts
+  s_c3cb26384f2544::t_e3d56e7ed79811 93-98
+e2e/suites/interactions/security/scan-queue.spec.ts
+  s_c3cb26384f2544::t_76b60544003436 1-79
+src/app/(app)/(admin)/security/queue/__tests__/page.test.tsx
+  s_c3cb26384f2544::t_9106536af7d39e 1-605
+src/app/(app)/(admin)/security/queue/page.tsx
+  s_7295de5a5caaa6::t_5bc994859a8371 1-366
+src/components/common/__tests__/filter-select.test.tsx
+  s_c3cb26384f2544::t_3c3336697565f6 1-225
+src/components/common/filter-select.tsx
+  s_c3cb26384f2544::t_a682b39373381c 1-70
+src/components/layout/__tests__/app-sidebar.test.tsx
+  s_c3cb26384f2544::t_a546b38df1b118 96,363-364,368-375
+src/components/layout/app-sidebar.tsx
+  s_c3cb26384f2544::t_13647703685675 30,110
+src/lib/api/__tests__/fetch.test.ts
+  s_c3cb26384f2544::t_71be81b8ef004b 12-18,378-394
+src/lib/api/__tests__/scan-queue.test.ts
+  s_c3cb26384f2544::t_e6417ae05bc472 1-89
+src/lib/api/fetch.ts
+  s_c3cb26384f2544::t_1631d32b8838b2 85-100
+src/lib/api/scan-queue.ts
+  s_c3cb26384f2544::t_26351120b8e1db 1-78
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "91290abf0796e158ca946058d146eb05d54290aa",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    },
+    "s_c3cb26384f2544": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "1e5dbbc4-e58d-4248-ae16-52eee0711c78",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 1572,
+    "ai_accepted": 1572,
+    "git_diff_deleted_lines": 1,
+    "git_diff_added_lines": 1572,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 1572,
+        "ai_accepted": 1572
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
