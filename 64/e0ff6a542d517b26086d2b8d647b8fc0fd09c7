@@ -1,0 +1,33 @@
+CHANGELOG.md
+  h_206b40f42abaf2 21
+e2e/suites/interactions/repositories/repo-list-width.spec.ts
+  h_206b40f42abaf2 1-40
+src/app/(app)/packages/page.tsx
+  h_206b40f42abaf2 741,746,750
+src/app/(app)/repositories/_components/packages-tab-content.test.tsx
+  h_206b40f42abaf2 45-49,60-69,126-144
+src/app/(app)/repositories/_components/packages-tab-content.tsx
+  h_206b40f42abaf2 420,425,437
+src/app/(app)/repositories/_components/repositories-content.test.tsx
+  h_206b40f42abaf2 121-126,340-351
+src/app/(app)/repositories/_components/repositories-content.tsx
+  h_206b40f42abaf2 468,473,477
+src/app/(app)/staging/page.tsx
+  h_206b40f42abaf2 250,255,259
+src/components/ui/resizable.test.tsx
+  h_206b40f42abaf2 1-69
+src/components/ui/resizable.tsx
+  h_206b40f42abaf2 3,9,11,18-20,23,25-35,38-42
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "64e0ff6a542d517b26086d2b8d647b8fc0fd09c7",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
