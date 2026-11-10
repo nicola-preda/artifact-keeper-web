@@ -24,6 +24,20 @@ src/app/(app)/repositories/_components/repo-detail-content.tsx
       "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 30,
+    "ai_additions": 43,
+    "ai_accepted": 43,
+    "git_diff_deleted_lines": 10,
+    "git_diff_added_lines": 73,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 43,
+        "ai_accepted": 43
+      }
+    }
+  },
   "token_usage": {
     "attributable": {
       "total": {
