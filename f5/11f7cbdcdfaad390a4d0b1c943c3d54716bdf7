@@ -1,0 +1,46 @@
+src/app/(app)/(admin)/users/__tests__/page.test.tsx
+  h_206b40f42abaf2 37,56,72,104,2062-2151
+src/app/(app)/(admin)/users/page.tsx
+  h_206b40f42abaf2 17,30,119,322-340,429-438,785-795
+src/app/(app)/layout.tsx
+  h_206b40f42abaf2 5,20
+src/components/auth/__tests__/require-auth.test.tsx
+  h_206b40f42abaf2 130-145
+src/components/auth/require-auth.tsx
+  h_206b40f42abaf2 8,11-12,21,29
+src/components/layout/__tests__/impersonation-banner.test.tsx
+  h_206b40f42abaf2 1-133
+src/components/layout/impersonation-banner.tsx
+  h_206b40f42abaf2 1-67
+src/lib/__tests__/error-utils.test.ts
+  h_206b40f42abaf2 10,12,596-612
+src/lib/api/__tests__/admin.test.ts
+  h_206b40f42abaf2 19-26,403-434
+src/lib/api/admin.ts
+  h_206b40f42abaf2 19,50-51,202-217
+src/lib/error-utils.ts
+  h_206b40f42abaf2 189-209,216-219
+src/types/index.ts
+  h_206b40f42abaf2 45-50
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "f511f7cbdcdfaad390a4d0b1c943c3d54716bdf7",
+  "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "commit_stats": {
+    "human_additions": 469,
+    "unknown_additions": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "git_diff_deleted_lines": 5,
+    "git_diff_added_lines": 469,
+    "tool_model_breakdown": {}
+  },
+  "proton_build": "1.7.6-proton.8"
+}
