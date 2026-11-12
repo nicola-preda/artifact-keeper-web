@@ -4,6 +4,15 @@
   "git_ai_version": "1.7.6",
   "base_commit_sha": "8ee5a8bb2aad4179286a9893f742b523820cbb2a",
   "prompts": {},
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "git_diff_deleted_lines": 0,
+    "git_diff_added_lines": 0,
+    "tool_model_breakdown": {}
+  },
   "token_usage": {
     "carried": {
       "total": {
