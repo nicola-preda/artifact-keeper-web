@@ -28,5 +28,19 @@ src/lib/api/exceptions.ts
       "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 226,
+    "ai_accepted": 226,
+    "git_diff_deleted_lines": 1,
+    "git_diff_added_lines": 226,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 226,
+        "ai_accepted": 226
+      }
+    }
+  },
   "proton_build": "1.7.6-proton.8"
 }
