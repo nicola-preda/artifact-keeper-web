@@ -1,0 +1,24 @@
+e2e/suites/interactions/repositories/artifact-browser-grouping.spec.ts
+  s_7295de5a5caaa6::t_8cee8a95636750 276,281-284,311-336
+src/app/(app)/repositories/_components/__tests__/artifact-browser-toggle.test.tsx
+  s_7295de5a5caaa6::t_39b92b0635f962 41-46,49,51,93-106,165,167
+src/app/(app)/repositories/_components/artifact-browser-toggle.tsx
+  s_7295de5a5caaa6::t_64944adfda44be 41-44,46-53,75-76
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "62d40df3525dc862dc0e88aef2660815b4886303",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
