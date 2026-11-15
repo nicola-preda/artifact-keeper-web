@@ -1,0 +1,74 @@
+src/app/(app)/builds/page.tsx
+  s_7295de5a5caaa6::t_9e4f52e5f4441d 62,224-230,247-248,310-314,316-317,320-340
+src/app/(app)/builds/_components/build-links.tsx
+  s_7295de5a5caaa6::t_0ec8ab98ab50ae 1-38,48-62
+  s_7295de5a5caaa6::t_aba21b498d4c05 39-47
+src/app/(app)/builds/_components/__tests__/build-links.test.tsx
+  s_7295de5a5caaa6::t_115535c311db44 1-66
+src/lib/api/builds.ts
+  s_7295de5a5caaa6::t_c4dfcb1a6fcffc 42,45-51,69
+src/lib/api/__tests__/builds.test.ts
+  s_7295de5a5caaa6::t_779c0f83116bd9 141,156-174
+src/types/builds.ts
+  s_7295de5a5caaa6::t_904968f7e6dc50 26
+CHANGELOG.md
+  s_7295de5a5caaa6::t_3732fd7c632df2 26
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "8f15c720530bc41fedc6ef1131edea95d6d6350f",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 197,
+    "ai_accepted": 197,
+    "git_diff_deleted_lines": 57,
+    "git_diff_added_lines": 197,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 197,
+        "ai_accepted": 197
+      }
+    }
+  },
+  "token_usage": {
+    "carried": {
+      "total": {
+        "input_tokens": 46,
+        "output_tokens": 16978,
+        "cache_creation_input_tokens": 24735,
+        "cache_read_input_tokens": 3768199
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 46,
+          "output_tokens": 16978,
+          "cache_creation_input_tokens": 24735,
+          "cache_read_input_tokens": 3768199
+        }
+      }
+    },
+    "origins": [
+      "689b67034deab7d3dfd926e4af277aec0d6aec7c"
+    ]
+  },
+  "activity": {
+    "added_sloc": 58,
+    "deleted_sloc": 1,
+    "checkpoints": 2,
+    "span_seconds": 5
+  },
+  "proton_build": "1.7.6-proton.8"
+}
