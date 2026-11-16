@@ -19,5 +19,25 @@ src/app/(app)/staging/_components/staging-detail-content.test.tsx
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 73,
+    "ai_accepted": 73,
+    "git_diff_deleted_lines": 3,
+    "git_diff_added_lines": 73,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 73,
+        "ai_accepted": 73
+      }
+    }
+  },
+  "activity": {
+    "added_sloc": 64,
+    "deleted_sloc": 3,
+    "checkpoints": 3,
+    "span_seconds": 19
+  },
   "proton_build": "1.7.6-proton.8"
 }
