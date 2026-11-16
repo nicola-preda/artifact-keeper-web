@@ -1,0 +1,268 @@
+.github/workflows/docker-publish.yml
+  s_7295de5a5caaa6::t_cea4b4a2f7fca9 187-188,190,192-193,196-198,200-202,204-205,227-233,239-241
+.github/workflows/generate-tutorials.yml
+  s_7295de5a5caaa6::t_80823150b1bb9a 71,74,81,84-87,89-91,93-94,96-97
+.github/workflows/release.yml
+  s_7295de5a5caaa6::t_0a8df5105c6133 39-40,56-58,62-63
+.github/workflows/visual-baselines.yml
+  s_7295de5a5caaa6::t_634d4ec88b301c 74
+CHANGELOG.md
+  s_7295de5a5caaa6::t_632e97e244ca5e 12-15,22,28-35,42
+e2e/fixtures/mcp/rt15-stored-content.ts
+  s_7295de5a5caaa6::t_f5c8d342928e46 90-92,94
+e2e/suites/interactions/admin/migration.spec.ts
+  s_7295de5a5caaa6::t_f12c4d6bd79564 78-96
+e2e/suites/interactions/admin/system-config-feature-flags.spec.ts
+  s_7295de5a5caaa6::t_f6474073740c05 93-110
+e2e/suites/interactions/admin/upload-size-limit.spec.ts
+  s_7295de5a5caaa6::t_e25a304ebb602e 4,6-8,11,16-17,19-20,23-24,26-27,30,34,36-41
+e2e/suites/interactions/auth/login.spec.ts
+  s_7295de5a5caaa6::t_2ba032ac6effe6 3,104-189
+e2e/suites/interactions/dashboard/dashboard-stats.spec.ts
+  s_7295de5a5caaa6::t_d2efa811cc719d 43,71,73
+e2e/suites/interactions/dashboard/quota.spec.ts
+  s_7295de5a5caaa6::t_a70fd4f3965af8 1-197
+e2e/suites/interactions/operations/lifecycle.spec.ts
+  s_7295de5a5caaa6::t_0d77b063431d2b 283-289
+e2e/suites/interactions/operations/monitoring.spec.ts
+  s_7295de5a5caaa6::t_1765c9fd6a40ef 51,53-54
+e2e/suites/interactions/repositories/artifact-browser-grouping.spec.ts
+  s_7295de5a5caaa6::t_b744c09c6fd853 207,242,254
+e2e/suites/interactions/repositories/download-url-and-version.spec.ts
+  s_7295de5a5caaa6::t_165a302a759441 124-180
+e2e/suites/interactions/security/durable-acknowledgements.spec.ts
+  s_7295de5a5caaa6::t_f927d1a9c28a1f 78
+e2e/suites/interactions/security/scan-queue.spec.ts
+  s_7295de5a5caaa6::t_c89bf1288efefa 1-79
+e2e/suites/interactions/security/security-dashboard.spec.ts
+  s_7295de5a5caaa6::t_95593c7be13d6e 55-86
+e2e/suites/interactions/security/security-scans.spec.ts
+  s_7295de5a5caaa6::t_ab88c3d489e0ee 36-90
+e2e/suites/interactions/security/vulnerability-findings.spec.ts
+  s_7295de5a5caaa6::t_846e7d6531363d 1-88
+src/app/(app)/(admin)/lifecycle/_components/preview-result-alert.test.tsx
+  s_7295de5a5caaa6::t_92c9b896824fce 30,58
+src/app/(app)/(admin)/lifecycle/page.test.tsx
+  s_7295de5a5caaa6::t_2c9eb939a5cb9c 297
+src/app/(app)/(admin)/migration/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_e0798ed96fe224 229-242,403,472,529-576,1051,1069,1082,1087-1140
+src/app/(app)/(admin)/migration/page.tsx
+  s_7295de5a5caaa6::t_fdd72a1e348dc2 139-161,337,411-414,416-417,424-425,457-473,593,600-618,819,823,914,1195-1215,1313-1318,1331,1338-1344,1348-1350,1354-1359,1751
+src/app/(app)/(admin)/security/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_9cb88b6c4f9b0e 51-58,197-204,338-342,345,1212-1388
+src/app/(app)/(admin)/security/findings/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_bcd0296455b56a 1-664
+src/app/(app)/(admin)/security/findings/page.tsx
+  s_7295de5a5caaa6::t_f5d9ac0ce58a09 1-452
+src/app/(app)/(admin)/security/page.tsx
+  s_7295de5a5caaa6::t_646843107146e3 4-5,92-94,98-102,115-118,120-123,126,137-139,300-306,314-322,329-337,344-352,359-372,445-449,457-461,469-473
+src/app/(app)/(admin)/security/queue/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_8657ec58d92760 1-614
+src/app/(app)/(admin)/security/queue/page.tsx
+  s_7295de5a5caaa6::t_8617eb6a092641 1-360
+src/app/(app)/(admin)/security/scans/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_6d02e3a114a82b 1-296
+src/app/(app)/(admin)/security/scans/page.tsx
+  s_7295de5a5caaa6::t_3f318e838e7dc8 21,154-163,375,384,438,448-452,457-465
+src/app/(app)/(admin)/settings/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_77b4ade5a5f013 153,378-398,416,434,642
+src/app/(app)/(admin)/settings/page.tsx
+  s_7295de5a5caaa6::t_f434a9c3377fb5 3,5,9,28,43-44,47-55,57,91-92,363-367
+src/app/(app)/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_13f02b6e014869 21-25,48-50
+src/app/(app)/_components/__tests__/dashboard-content.test.tsx
+  s_7295de5a5caaa6::t_f7ca6b95fcd404 23-27,96-98,165,181-189,437-541
+src/app/(app)/_components/dashboard-content.tsx
+  s_7295de5a5caaa6::t_11be40aaa75903 23,29,37,201-231,247-248,259-279,286-287,289,304-305,365,432-435,553
+src/app/(app)/layout.tsx
+  s_7295de5a5caaa6::t_919f189cb1071e 6,22
+src/app/(app)/repositories/_components/__tests__/docker-tag-list.test.tsx
+  s_7295de5a5caaa6::t_51da342ce03747 130,132-133
+src/app/(app)/repositories/_components/__tests__/image-inspect-panel.test.tsx
+  s_7295de5a5caaa6::t_d766b2660b4d2b 71
+src/app/(app)/repositories/_components/__tests__/maven-component-list.test.tsx
+  s_7295de5a5caaa6::t_7efa6eb7fec7a4 115-116
+src/app/(app)/repositories/_components/repo-detail-content.test.tsx
+  s_7295de5a5caaa6::t_f23b81a928159f 277-281,299-314,320-327,979-1053
+src/app/(app)/repositories/_components/repo-detail-content.tsx
+  s_7295de5a5caaa6::t_7e7adafd182364 196-198,220,700-709,763-767,841-844,846,850-851,1551-1554
+src/app/(app)/repositories/_components/repo-storage-panel.test.tsx
+  s_7295de5a5caaa6::t_18242169ba005e 194
+src/app/(auth)/__tests__/callback-silent-sso.test.tsx
+  s_7295de5a5caaa6::t_3670e63b851cec 32,34-37,142-224
+src/app/(auth)/__tests__/callback-sso-binding.test.tsx
+  s_7295de5a5caaa6::t_359d2ca4ebf657 1-106
+src/app/(auth)/__tests__/login-form-visibility.test.tsx
+  s_7295de5a5caaa6::t_74a61af4a47730 115
+src/app/(auth)/__tests__/login-ldap-totp.test.tsx
+  s_7295de5a5caaa6::t_e76317232555ce 1-195
+src/app/(auth)/__tests__/login-lockout.test.tsx
+  s_7295de5a5caaa6::t_65da09e24f3880 112,140,508,582-638
+src/app/(auth)/__tests__/login-sso-button-label.test.tsx
+  s_7295de5a5caaa6::t_136f1895712086 69
+src/app/(auth)/__tests__/login-system-config-integration.test.tsx
+  s_7295de5a5caaa6::t_c09c1d215d21b6 103
+src/app/(auth)/callback/page.tsx
+  s_7295de5a5caaa6::t_20d54b47ede9c8 12,32-46,51,100-107,122-146,155,162
+src/app/(auth)/login/page.tsx
+  s_7295de5a5caaa6::t_80a7887af770d1 15,100,200,205-211,531-536
+src/components/common/__tests__/file-upload.test.tsx
+  s_7295de5a5caaa6::t_d5160df3827655 64,170-214,648-671
+src/components/common/__tests__/filter-select.test.tsx
+  s_7295de5a5caaa6::t_9d3821bfa5e1b8 1-225
+src/components/common/__tests__/quota-usage-cards.test.tsx
+  s_7295de5a5caaa6::t_0c76ead4365e73 1-120
+src/components/common/file-upload.tsx
+  s_7295de5a5caaa6::t_d46b2f9bf8cd06 18,44,130-131,162,224,239,250-251,255,282-290,421,427-442
+src/components/common/filter-select.tsx
+  s_7295de5a5caaa6::t_bcc5a5794a8884 1-70
+src/components/common/quota-usage-cards.tsx
+  s_7295de5a5caaa6::t_c9d7ac3ce55a97 1-169
+src/components/layout/__tests__/app-sidebar.test.tsx
+  s_7295de5a5caaa6::t_91714a262efc4b 35-39,101-102,177,370-374,378-405
+src/components/layout/__tests__/quota-banner.test.tsx
+  s_7295de5a5caaa6::t_1b4f5cc5681468 1-190
+src/components/layout/app-sidebar.tsx
+  s_7295de5a5caaa6::t_5ca28cbfbee99b 6,31-32,112-113,186-188,222-224
+src/components/layout/quota-banner.tsx
+  s_7295de5a5caaa6::t_9b171fef0a3677 1-130
+src/components/mcp/bundle-panel.test.tsx
+  s_7295de5a5caaa6::t_0bac291d2f59c5 27
+src/components/package/__tests__/file-viewer.test.tsx
+  s_7295de5a5caaa6::t_1f7773ff5a9cc1 123-124
+src/components/settings/__tests__/maintenance-card.test.tsx
+  s_7295de5a5caaa6::t_38af3f2b77fcdc 182,257,261
+src/hooks/__tests__/use-can-list-findings.test.ts
+  s_7295de5a5caaa6::t_231abc4eddfad2 1-69
+src/hooks/__tests__/use-chunked-upload.test.ts
+  s_7295de5a5caaa6::t_a17f5c0f9c8363 686-702
+src/hooks/__tests__/use-instance-quota.test.ts
+  s_7295de5a5caaa6::t_56de53f791f62e 1-70
+src/hooks/use-can-list-findings.ts
+  s_7295de5a5caaa6::t_ed88f506a0f9e8 1-39
+src/hooks/use-chunked-upload.ts
+  s_7295de5a5caaa6::t_c1b878209bdc56 15,251-254
+src/hooks/use-instance-quota.ts
+  s_7295de5a5caaa6::t_78904ddf938f84 1-44
+src/lib/__tests__/quota.test.ts
+  s_7295de5a5caaa6::t_9382f1f06397a5 1-285
+src/lib/__tests__/repo-size.test.ts
+  s_7295de5a5caaa6::t_a8d31e5c402850 7-8,12-13
+src/lib/__tests__/scan-utils.test.ts
+  s_7295de5a5caaa6::t_aa7a94a1ef3b95 2,94-115
+src/lib/__tests__/totp-challenge.test.ts
+  s_7295de5a5caaa6::t_bf630d71f7ee2f 1-42
+src/lib/__tests__/utils.test.ts
+  s_7295de5a5caaa6::t_261496837b6cd5 9,15-16,20-21,25,29,33-34,38-39,65-73,78
+src/lib/api/__tests__/admin.test.ts
+  s_7295de5a5caaa6::t_f62d457ebcb5c1 46-76
+src/lib/api/__tests__/artifacts.test.ts
+  s_7295de5a5caaa6::t_e2c34e3ad90dc5 1072-1094
+src/lib/api/__tests__/cve-findings.test.ts
+  s_7295de5a5caaa6::t_7aa987494ade3b 1-94
+src/lib/api/__tests__/fetch.test.ts
+  s_7295de5a5caaa6::t_20d7681ac8a152 12-18,378-394
+src/lib/api/__tests__/quota.test.ts
+  s_7295de5a5caaa6::t_02e027e0aff029 1-46
+src/lib/api/__tests__/scan-queue.test.ts
+  s_7295de5a5caaa6::t_210ffa25176237 1-89
+src/lib/api/__tests__/settings.test.ts
+  s_7295de5a5caaa6::t_4e94d135de8db6 507,518,520
+src/lib/api/__tests__/sso.test.ts
+  s_7295de5a5caaa6::t_5e173609fd4837 458,465,480-526
+src/lib/api/__tests__/uploads.test.ts
+  s_7295de5a5caaa6::t_89acac514f616d 37,385-432
+src/lib/api/admin.ts
+  s_7295de5a5caaa6::t_05826b91378255 21,38-40
+src/lib/api/artifacts.ts
+  s_7295de5a5caaa6::t_492e0fc89fc235 30,388-395,403
+src/lib/api/cve-findings.ts
+  s_7295de5a5caaa6::t_fc2245f60bcd8b 1-77
+src/lib/api/fetch.ts
+  s_7295de5a5caaa6::t_5befab94952d06 85-100
+src/lib/api/quota.ts
+  s_7295de5a5caaa6::t_fc19e77c634312 1-26
+src/lib/api/scan-queue.ts
+  s_7295de5a5caaa6::t_bacdbeaa91e44e 1-78
+src/lib/api/settings.ts
+  s_7295de5a5caaa6::t_9559d7979c782f 42-44
+src/lib/api/sso.ts
+  s_7295de5a5caaa6::t_917e76348f07d3 55,199-206,332,337,339-346,355-357
+src/lib/api/uploads.ts
+  s_7295de5a5caaa6::t_6147747883f325 17,89,91-92,126-127,157-158
+src/lib/quota.ts
+  s_7295de5a5caaa6::t_c5bf300ca42ebf 1-372
+src/lib/scan-utils.ts
+  s_7295de5a5caaa6::t_b7ac08616e4a38 56-72
+src/lib/silent-sso.ts
+  s_7295de5a5caaa6::t_8a3054e4278894 129-141
+src/lib/totp-challenge.ts
+  s_7295de5a5caaa6::t_20d99482a77187 1-20
+src/lib/utils.ts
+  s_7295de5a5caaa6::t_587cc60acaf67c 9-14,21
+src/providers/__tests__/auth-provider.test.tsx
+  s_7295de5a5caaa6::t_78b0fbba76aa3f 371-409
+src/providers/auth-provider.tsx
+  s_7295de5a5caaa6::t_e1a98f39be69f1 50-57,151-155,163,181,351
+src/types/index.ts
+  s_7295de5a5caaa6::t_630a887dac56b6 1,519-521
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "40df631e2f4db6d58fa008bee2cef9557e4a5fd0",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 6,
+        "output_tokens": 1632,
+        "cache_creation_input_tokens": 6834,
+        "cache_read_input_tokens": 1038372
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 6,
+          "output_tokens": 1632,
+          "cache_creation_input_tokens": 6834,
+          "cache_read_input_tokens": 1038372
+        }
+      }
+    },
+    "carried": {
+      "total": {
+        "input_tokens": 12,
+        "output_tokens": 8210,
+        "cache_creation_input_tokens": 7273,
+        "cache_read_input_tokens": 648640
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 12,
+          "output_tokens": 8210,
+          "cache_creation_input_tokens": 7273,
+          "cache_read_input_tokens": 648640
+        }
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 6,
+        "output_tokens": 1632,
+        "cache_creation_input_tokens": 6834,
+        "cache_read_input_tokens": 1038372
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
