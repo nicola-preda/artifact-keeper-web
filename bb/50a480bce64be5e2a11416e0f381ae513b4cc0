@@ -1,0 +1,38 @@
+src/app/(app)/repositories/_components/repo-settings-tab.tsx
+  s_7295de5a5caaa6::t_c282a04ce04357 715-722
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "bb50a480bce64be5e2a11416e0f381ae513b4cc0",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "token_usage": {
+    "carried": {
+      "total": {
+        "input_tokens": 8,
+        "output_tokens": 2098,
+        "cache_creation_input_tokens": 414914,
+        "cache_read_input_tokens": 425832
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 8,
+          "output_tokens": 2098,
+          "cache_creation_input_tokens": 414914,
+          "cache_read_input_tokens": 425832
+        }
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
