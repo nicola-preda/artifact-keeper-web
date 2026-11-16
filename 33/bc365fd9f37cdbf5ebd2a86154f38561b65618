@@ -1,0 +1,28 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_b3a613cbdbf7b4 27-29
+src/app/(auth)/__tests__/login-lockout.test.tsx
+  s_7295de5a5caaa6::t_5828a74b88c9ef 255-302
+src/app/(auth)/login/page.tsx
+  s_7295de5a5caaa6::t_b166def72a16a2 13-18,230-232
+src/lib/__tests__/error-utils.test.ts
+  s_7295de5a5caaa6::t_09b961de6cd4f2 6,624-643
+src/lib/error-utils.ts
+  s_7295de5a5caaa6::t_39a924ac8c62f8 210-222
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "33bc365fd9f37cdbf5ebd2a86154f38561b65618",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
