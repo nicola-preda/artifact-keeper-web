@@ -1,0 +1,49 @@
+src/providers/auth-provider.tsx
+  s_7295de5a5caaa6::t_7cd1b4df2efe52 283-284,289-293,334
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "3026c2e324eade64837284b53635d686f0bd705c",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 14,
+        "output_tokens": 2358,
+        "cache_creation_input_tokens": 387991,
+        "cache_read_input_tokens": 1609050
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 14,
+          "output_tokens": 2358,
+          "cache_creation_input_tokens": 387991,
+          "cache_read_input_tokens": 1609050
+        }
+      },
+      "tool_uses": {
+        "bash": 4
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 14,
+        "output_tokens": 2358,
+        "cache_creation_input_tokens": 387991,
+        "cache_read_input_tokens": 1609050
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
