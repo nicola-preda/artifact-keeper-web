@@ -1,0 +1,71 @@
+src/app/(auth)/__tests__/login-sso-button-label.test.tsx
+  s_7295de5a5caaa6::t_e220bf00b513fa 4,208-247
+src/app/(auth)/login/page.tsx
+  s_7295de5a5caaa6::t_3a325f2a7ed14c 15,524,526-527
+src/lib/__tests__/same-origin.test.ts
+  s_7295de5a5caaa6::t_cacdb51b5d15f7 1-26
+src/lib/same-origin.ts
+  s_7295de5a5caaa6::t_e0f0874fc0b0dc 1-17
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "00e5270855906463c9742ede8e7fa3f151ade3cd",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 8,
+        "output_tokens": 1582,
+        "cache_creation_input_tokens": 122951,
+        "cache_read_input_tokens": 415536
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 8,
+          "output_tokens": 1582,
+          "cache_creation_input_tokens": 122951,
+          "cache_read_input_tokens": 415536
+        }
+      },
+      "tool_uses": {
+        "bash": 3
+      }
+    },
+    "carried": {
+      "total": {
+        "input_tokens": 16,
+        "output_tokens": 3319,
+        "cache_creation_input_tokens": 423329,
+        "cache_read_input_tokens": 1143854
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 16,
+          "output_tokens": 3319,
+          "cache_creation_input_tokens": 423329,
+          "cache_read_input_tokens": 1143854
+        }
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 8,
+        "output_tokens": 1582,
+        "cache_creation_input_tokens": 122951,
+        "cache_read_input_tokens": 415536
+      }
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
