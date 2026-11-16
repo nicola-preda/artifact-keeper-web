@@ -18,5 +18,19 @@ src/app/(app)/(admin)/permissions/page.tsx
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 15,
+    "ai_accepted": 15,
+    "git_diff_deleted_lines": 1,
+    "git_diff_added_lines": 15,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 15,
+        "ai_accepted": 15
+      }
+    }
+  },
   "proton_build": "1.7.6-proton.8"
 }
