@@ -1,0 +1,65 @@
+src/app/(app)/builds/_components/__tests__/delete-summary.test.ts
+  s_7295de5a5caaa6::t_c5aceaf5c3973a 1-24
+src/types/builds.ts
+  s_7295de5a5caaa6::t_fc422f8a2ffc4c 57-67
+  s_7295de5a5caaa6::t_ff23a33e8b78e5 34-38
+src/lib/api/__tests__/builds.test.ts
+  s_7295de5a5caaa6::t_8953d3e2f88ec6 11-16,65-87
+  s_7295de5a5caaa6::t_e32dbf6930226e 188-210
+  s_7295de5a5caaa6::t_7fface815679be 211-224
+src/app/(app)/builds/_components/delete-summary.ts
+  s_7295de5a5caaa6::t_1e49d83940cbce 1-16
+src/lib/api/builds.ts
+  s_7295de5a5caaa6::t_a08c35a6503eff 18,21,44-46,174-187
+  s_7295de5a5caaa6::t_d5a783e7c840a2 22
+  s_7295de5a5caaa6::t_80563e376ee76f 55-75,56-75,80,119-120
+  s_7295de5a5caaa6::t_48cc8406a5bb86 32-41
+src/app/(app)/builds/page.tsx
+  s_7295de5a5caaa6::t_0002818212423e 6-7,28,30-31,59,68,538-564,581-582,656-666,799-809,837-847,960-970
+  s_7295de5a5caaa6::t_e6f9c92cac018f 69,341-343,420-422,447-449
+  s_7295de5a5caaa6::t_73fd5afbbb1a2a 70-74,516-526,567,576,633-634,729-757,765,902,904-926
+src/app/(app)/builds/_components/__tests__/build-artifact-name.test.tsx
+  s_7295de5a5caaa6::t_45659bb1304bf3 1-43
+src/app/(app)/builds/_components/build-artifact-name.tsx
+  s_7295de5a5caaa6::t_bf0893c1c49c52 1-39
+src/app/(app)/builds/_components/__tests__/build-filters.test.ts
+  s_7295de5a5caaa6::t_c4660d2fcb44d6 1-25
+src/app/(app)/builds/_components/build-filters.ts
+  s_7295de5a5caaa6::t_828ccb0fb3a647 1-30
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "319d8d1974f403c2db12db217699f01849fa6b6e",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 180,
+    "ai_accepted": 180,
+    "git_diff_deleted_lines": 4,
+    "git_diff_added_lines": 180,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 180,
+        "ai_accepted": 180
+      }
+    }
+  },
+  "token_usage": {
+    "origins": [
+      "b6b25d74fe6b3eaa8fb1e9526b573fcace0dc939"
+    ]
+  },
+  "proton_build": "1.7.6-proton.8"
+}
