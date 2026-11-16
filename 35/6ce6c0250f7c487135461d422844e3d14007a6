@@ -1,0 +1,34 @@
+src/app/(app)/(admin)/curation/_components/mcp-curation-queue.tsx
+  s_7295de5a5caaa6::t_ba4420a2cc1be9 8-9
+src/app/(app)/(admin)/curation/_components/mcp-queue-parts.tsx
+  s_7295de5a5caaa6::t_e26abe71ccbf70 6-7
+src/app/(app)/(admin)/curation/_components/mcp-upstream-catalog.tsx
+  s_7295de5a5caaa6::t_66cd67d497adae 8-9
+src/app/(app)/packages/[id]/_components/mcp-detail-sections.tsx
+  s_7295de5a5caaa6::t_37ef086e1572fc 6
+src/app/(app)/packages/[id]/_components/mcp-server-detail.tsx
+  s_7295de5a5caaa6::t_5b3ee6a3d58ecd 8-9
+src/components/mcp/install-panel.tsx
+  s_7295de5a5caaa6::t_157c5973ef434a 8
+src/components/mcp/server-card.tsx
+  s_7295de5a5caaa6::t_d30f767832d60a 4-5
+src/components/mcp/tools-tab.tsx
+  s_7295de5a5caaa6::t_57506cab326ea0 7-8
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "356ce6c0250f7c487135461d422844e3d14007a6",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
