@@ -44,5 +44,19 @@ src/providers/system-config-provider.tsx
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 1020,
+    "ai_accepted": 1020,
+    "git_diff_deleted_lines": 176,
+    "git_diff_added_lines": 1020,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 1020,
+        "ai_accepted": 1020
+      }
+    }
+  },
   "proton_build": "1.7.6-proton.8"
 }
