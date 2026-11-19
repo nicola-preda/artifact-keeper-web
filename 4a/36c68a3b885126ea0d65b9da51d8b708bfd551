@@ -1,0 +1,38 @@
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "4a36c68a3b885126ea0d65b9da51d8b708bfd551",
+  "prompts": {},
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 0,
+    "ai_accepted": 0,
+    "git_diff_deleted_lines": 0,
+    "git_diff_added_lines": 0,
+    "tool_model_breakdown": {}
+  },
+  "token_usage": {
+    "carried": {
+      "total": {
+        "input_tokens": 46,
+        "output_tokens": 9246,
+        "cache_creation_input_tokens": 1094204,
+        "cache_read_input_tokens": 5622637
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 46,
+          "output_tokens": 9246,
+          "cache_creation_input_tokens": 1094204,
+          "cache_read_input_tokens": 5622637
+        }
+      }
+    },
+    "origins": [
+      "8ee5a8bb2aad4179286a9893f742b523820cbb2a"
+    ]
+  },
+  "proton_build": "1.7.6-proton.8"
+}
