@@ -41,6 +41,24 @@ src/lib/api/upstream-filter.ts
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 0,
+    "ai_additions": 553,
+    "ai_accepted": 553,
+    "git_diff_deleted_lines": 0,
+    "git_diff_added_lines": 553,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 552,
+        "ai_accepted": 552
+      },
+      "claude::unknown": {
+        "ai_additions": 1,
+        "ai_accepted": 1
+      }
+    }
+  },
   "token_usage": {
     "attributable": {
       "total": {
@@ -86,6 +104,12 @@ src/lib/api/upstream-filter.ts
         "cache_read_input_tokens": 1715756
       }
     }
+  },
+  "activity": {
+    "added_sloc": 403,
+    "deleted_sloc": 75,
+    "checkpoints": 4,
+    "span_seconds": 37
   },
   "proton_build": "1.7.6-proton.8"
 }
