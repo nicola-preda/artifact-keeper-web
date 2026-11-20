@@ -1,0 +1,24 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_92e170a110e51c 18
+src/app/(app)/repositories/_components/upstream-filter-settings.test.tsx
+  s_7295de5a5caaa6::t_a34802d970110f 10-11,23-24,143-182,204-208
+src/app/(app)/repositories/_components/upstream-filter-settings.tsx
+  s_7295de5a5caaa6::t_55de86b78d456c 13,35,39-52,62-63,71-75,89,102-103,145-148,173-175,195,204,209-213
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "6e6ad13c2457991e0f794955e87ff3191de98132",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
