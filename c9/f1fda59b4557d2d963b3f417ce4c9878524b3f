@@ -1,5 +1,6 @@
 CHANGELOG.md
   s_7295de5a5caaa6::t_2e03ad692af104 18,25
+  s_7295de5a5caaa6::t_3c94d1e36a64d1 18
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -76,7 +77,11 @@ CHANGELOG.md
         "cache_creation_input_tokens": 1776468,
         "cache_read_input_tokens": 7188765
       }
-    }
+    },
+    "origins": [
+      "c9f1fda59b4557d2d963b3f417ce4c9878524b3f",
+      "d09ccec7285b5d3d5071d48abcbf6b1f40f226bf"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
