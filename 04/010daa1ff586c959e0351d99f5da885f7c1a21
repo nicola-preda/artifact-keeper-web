@@ -20,6 +20,20 @@ src/app/(app)/repositories/_components/repo-detail-content.test.tsx
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 27,
+    "ai_additions": 49,
+    "ai_accepted": 49,
+    "git_diff_deleted_lines": 10,
+    "git_diff_added_lines": 76,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 49,
+        "ai_accepted": 49
+      }
+    }
+  },
   "token_usage": {
     "attributable": {
       "total": {
