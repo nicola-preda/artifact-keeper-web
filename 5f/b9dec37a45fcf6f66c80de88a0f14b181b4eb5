@@ -1,7 +1,9 @@
 src/app/(app)/(admin)/users/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_924c0d6049898a 10,2077-2090,2097-2118,2120-2122,2125,2128
+  s_7295de5a5caaa6::t_17c82765ad402e 10,2077-2090,2097-2118,2120-2122,2125,2128
 src/app/(app)/(admin)/users/page.tsx
   s_7295de5a5caaa6::t_e9f0eb7032efd9 61-62,90,127,154-158,205-208,214,301,305,751-770
+  s_7295de5a5caaa6::t_2ad5dc95708cd1 61-62,90,127,154-158,205-208,214,301,305,751-770
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -31,6 +33,39 @@ src/app/(app)/(admin)/users/page.tsx
         "ai_accepted": 78
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 21,
+        "output_tokens": 8943,
+        "cache_creation_input_tokens": 9603,
+        "cache_read_input_tokens": 3296484
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 21,
+          "output_tokens": 8943,
+          "cache_creation_input_tokens": 9603,
+          "cache_read_input_tokens": 3296484
+        }
+      },
+      "tool_uses": {
+        "bash": 5
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 21,
+        "output_tokens": 8943,
+        "cache_creation_input_tokens": 9603,
+        "cache_read_input_tokens": 3296484
+      }
+    },
+    "origins": [
+      "22e425bbf7abce2ea2d3366bd87bf7177d7286af",
+      "5fb9dec37a45fcf6f66c80de88a0f14b181b4eb5"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
