@@ -1,9 +1,12 @@
 CHANGELOG.md
   s_7295de5a5caaa6::t_ef56abea863926 21
+  s_7295de5a5caaa6::t_a2ab9ab7adc9bd 21
 src/app/(app)/repositories/_components/repo-storage-panel.test.tsx
   s_7295de5a5caaa6::t_1a91c791a14cd7 94-125
+  s_7295de5a5caaa6::t_39b3dca6c7eab0 94-125
 src/app/(app)/repositories/_components/repo-storage-panel.tsx
   s_7295de5a5caaa6::t_b5777c8b036ba0 121-125,138-141
+  s_7295de5a5caaa6::t_fd1e8c2e6a46d9 121-125,138-141
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -33,6 +36,12 @@ src/app/(app)/repositories/_components/repo-storage-panel.tsx
         "ai_accepted": 42
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "ab76c6f59289c7b3a238badf6777b5208cab66a8",
+      "e86ecae8191b70bdafe01e6ce515e6d025661950"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
