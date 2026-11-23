@@ -1,5 +1,6 @@
 CHANGELOG.md
   s_7295de5a5caaa6::t_0a690a23cee90a 20
+  s_7295de5a5caaa6::t_3c8ef1504d7896 20
 src/app/(app)/packages/page.tsx
   s_7295de5a5caaa6::t_fe9871fe7d456e 735,740,744
 src/app/(app)/repositories/_components/packages-tab-content.test.tsx
@@ -10,10 +11,13 @@ src/app/(app)/repositories/_components/repositories-content.test.tsx
   s_7295de5a5caaa6::t_d8f20aa33fe94c 121-126,362-373
 src/app/(app)/repositories/_components/repositories-content.tsx
   s_7295de5a5caaa6::t_8a270136780ba9 305,484,489,493
+  s_7295de5a5caaa6::t_da87c760a8dfbe 305,484,489,493
 src/app/(app)/staging/page.tsx
   s_7295de5a5caaa6::t_b42443c04b3444 250,255,259
 src/components/ui/resizable.tsx
   s_7295de5a5caaa6::t_34656f998dedf6 3,9,11,18-20,23,25-35,38-42
+src/components/ui/resizable.test.tsx
+  s_7295de5a5caaa6::t_3a6733a8a77836 1-89
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -43,6 +47,12 @@ src/components/ui/resizable.tsx
         "ai_accepted": 89
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "0800050f18ea7566c6ff5e986fc1d62c786077d1",
+      "852882ff32764227a1ee03a1b2a1a39cf3cfdbd7"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
