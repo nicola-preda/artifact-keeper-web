@@ -1,13 +1,20 @@
 src/lib/__tests__/sdk-client.test.ts
   s_7295de5a5caaa6::t_cb2e30638348ad 1095-1191
+  s_91241db92deb5d::t_b320b63d2c40dd 1095-1191
 src/lib/sdk-client.ts
   s_7295de5a5caaa6::t_da2d0f4e093817 140-141,165-205,253
+  s_91241db92deb5d::t_fd827da6405f71 140-141,165-205,253
 src/providers/__tests__/auth-provider.test.tsx
   s_7295de5a5caaa6::t_af2f1231ce26ae 12-22,106-108,384-460
+  s_91241db92deb5d::t_9c4a9c2295a549 12-22,106-108,384-460
 src/providers/__tests__/auth-system-config.test.tsx
   s_7295de5a5caaa6::t_643d6d3682dac1 16-19
+  s_91241db92deb5d::t_d574e4eb04657f 16-19
 src/providers/auth-provider.tsx
   s_7295de5a5caaa6::t_956cc2d154338e 13,273-277,283-284,325-331
+  s_91241db92deb5d::t_0cf5e208f0ecf0 13,273-277,283-284,325-331
+e2e/suites/interactions/auth/expired-access-cookie.spec.ts
+  s_91241db92deb5d::t_eef139e6bf68f1 1-30
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -22,6 +29,14 @@ src/providers/auth-provider.tsx
         "model": "claude-opus-5-5"
       },
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    },
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
   "commit_stats": {
@@ -37,6 +52,41 @@ src/providers/auth-provider.tsx
         "ai_accepted": 251
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 92,
+        "output_tokens": 18498,
+        "cache_creation_input_tokens": 2748118,
+        "cache_read_input_tokens": 14083155
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 92,
+          "output_tokens": 18498,
+          "cache_creation_input_tokens": 2748118,
+          "cache_read_input_tokens": 14083155
+        }
+      },
+      "tool_uses": {
+        "bash": 26,
+        "sendmessage": 1,
+        "write": 1
+      }
+    },
+    "by_prompt": {
+      "s_91241db92deb5d": {
+        "input_tokens": 92,
+        "output_tokens": 18498,
+        "cache_creation_input_tokens": 2748118,
+        "cache_read_input_tokens": 14083155
+      }
+    },
+    "origins": [
+      "a997b972abac4ac1d002d8738462f34189ae8b9f",
+      "c3f9c244d2e6b3a206a0e9ebfa466d78d5aa260a"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
