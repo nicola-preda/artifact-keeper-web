@@ -1,7 +1,16 @@
 CHANGELOG.md
   s_7295de5a5caaa6::t_ec0410365fd715 18
+  s_7295de5a5caaa6::t_165bf8b2fd194a 18
 src/app/(app)/repositories/_components/repo-detail-content.tsx
   s_7295de5a5caaa6::t_e9f328264c588b 109-116,183-184,282-290,583,587-610,820-869,1143-1144,1471-1480,1583,2170,2300-2314
+  s_7295de5a5caaa6::t_97cd403022a802 109-116,183-184,282-290,583,587-610,820-869,1143-1144,1471-1480,1583,2170,2300-2314
+src/app/(app)/repositories/_components/__tests__/artifact-bulk-delete.test.ts
+  s_7295de5a5caaa6::t_6f6f0685c5d950 1-96
+e2e/suites/interactions/repositories/artifact-bulk-delete.spec.ts
+  s_7295de5a5caaa6::t_ec96c57362ad3e 1-120
+  s_7295de5a5caaa6::t_456a01829a6c18 121-135
+src/app/(app)/repositories/_components/artifact-bulk-delete.ts
+  s_7295de5a5caaa6::t_45e64c8aaafb86 1-94
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -31,6 +40,60 @@ src/app/(app)/repositories/_components/repo-detail-content.tsx
         "ai_accepted": 124
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 26,
+        "output_tokens": 4612,
+        "cache_creation_input_tokens": 11633,
+        "cache_read_input_tokens": 2865543
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 26,
+          "output_tokens": 4612,
+          "cache_creation_input_tokens": 11633,
+          "cache_read_input_tokens": 2865543
+        }
+      },
+      "tool_uses": {
+        "bash": 11
+      }
+    },
+    "carried": {
+      "total": {
+        "input_tokens": 250,
+        "output_tokens": 61963,
+        "cache_creation_input_tokens": 672365,
+        "cache_read_input_tokens": 10687881
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 250,
+          "output_tokens": 61963,
+          "cache_creation_input_tokens": 672365,
+          "cache_read_input_tokens": 10687881
+        }
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 26,
+        "output_tokens": 4612,
+        "cache_creation_input_tokens": 11633,
+        "cache_read_input_tokens": 2865543
+      }
+    },
+    "origins": [
+      "098ae28f681a5cc6770a3b738d9f0008be0eb1fb",
+      "998e950d18fdc8706dfc001145c899bce0033861"
+    ]
+  },
+  "activity": {
+    "added_sloc": 274,
+    "checkpoints": 3,
+    "span_seconds": 324
   },
   "proton_build": "1.7.6-proton.8"
 }
