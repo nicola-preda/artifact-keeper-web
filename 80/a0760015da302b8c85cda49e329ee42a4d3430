@@ -1,0 +1,38 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_e1931b6eaa870e 10-12
+e2e/suites/interactions/security/vulnerability-findings.spec.ts
+  s_7295de5a5caaa6::t_a7b5db867b21d5 1-88
+src/app/(app)/(admin)/security/findings/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_2cfca1d9effaad 1-595
+src/app/(app)/(admin)/security/findings/page.tsx
+  s_7295de5a5caaa6::t_aaa8fc896f6bf1 1-421
+src/components/common/__tests__/filter-select.test.tsx
+  s_7295de5a5caaa6::t_13d90d1eafe744 1-225
+src/components/common/filter-select.tsx
+  s_7295de5a5caaa6::t_c72c48faf51600 1-70
+src/lib/api/__tests__/cve-findings.test.ts
+  s_7295de5a5caaa6::t_652bdb9372f170 1-94
+src/lib/api/__tests__/fetch.test.ts
+  s_7295de5a5caaa6::t_bd60002dbe4a13 12-18,378-394
+src/lib/api/cve-findings.ts
+  s_7295de5a5caaa6::t_774720042bc1ef 1-75
+src/lib/api/fetch.ts
+  s_7295de5a5caaa6::t_f3b23e8c2cec57 85-100
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "80a0760015da302b8c85cda49e329ee42a4d3430",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
