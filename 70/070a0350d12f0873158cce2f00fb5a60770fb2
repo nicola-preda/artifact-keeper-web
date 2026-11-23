@@ -2,6 +2,8 @@ CHANGELOG.md
   s_7295de5a5caaa6::t_0413eacf64eac8 11
 src/app/(app)/repositories/_components/repo-detail-content.tsx
   s_7295de5a5caaa6::t_4c957c8e26ac32 121-128,193-194,283-291,610,614-637,906-955,1253-1254,1593-1602,1702,2322,2453-2467
+src/app/(app)/(admin)/users/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_17c82765ad402e 2111,2114-2115,2118
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -31,6 +33,39 @@ src/app/(app)/repositories/_components/repo-detail-content.tsx
         "ai_accepted": 124
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 21,
+        "output_tokens": 8943,
+        "cache_creation_input_tokens": 9603,
+        "cache_read_input_tokens": 3296484
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 21,
+          "output_tokens": 8943,
+          "cache_creation_input_tokens": 9603,
+          "cache_read_input_tokens": 3296484
+        }
+      },
+      "tool_uses": {
+        "bash": 5
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 21,
+        "output_tokens": 8943,
+        "cache_creation_input_tokens": 9603,
+        "cache_read_input_tokens": 3296484
+      }
+    },
+    "origins": [
+      "22e425bbf7abce2ea2d3366bd87bf7177d7286af",
+      "70070a0350d12f0873158cce2f00fb5a60770fb2"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
