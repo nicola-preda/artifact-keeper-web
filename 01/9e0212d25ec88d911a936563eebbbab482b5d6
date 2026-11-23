@@ -1,9 +1,12 @@
 e2e/suites/interactions/admin/migration.spec.ts
   s_7295de5a5caaa6::t_4e671acced0ff8 78-96
+  s_91241db92deb5d::t_aa3056bc5300d0 78-96
 src/app/(app)/(admin)/migration/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_c6aa21ce358037 459,516-559
+  s_91241db92deb5d::t_603fc1332fe676 459,516-559
 src/app/(app)/(admin)/migration/page.tsx
   s_7295de5a5caaa6::t_eb1460e9c95e2b 1244-1249,1273-1275,1279-1284
+  s_91241db92deb5d::t_1b97d7da10af29 1244-1249,1273-1275,1279-1284
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -18,6 +21,14 @@ src/app/(app)/(admin)/migration/page.tsx
         "model": "claude-opus-5-5"
       },
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    },
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
   "commit_stats": {
@@ -33,6 +44,12 @@ src/app/(app)/(admin)/migration/page.tsx
         "ai_accepted": 79
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "019e0212d25ec88d911a936563eebbbab482b5d6",
+      "90ee0e71f875378d00853830b1fd7f017d3b20ad"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
