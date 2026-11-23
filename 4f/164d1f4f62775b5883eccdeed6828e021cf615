@@ -1,7 +1,13 @@
 src/app/(auth)/__tests__/login-sso-button-label.test.tsx
   s_7295de5a5caaa6::t_6a959cb1e5c8b8 4,208-247
+  s_7295de5a5caaa6::t_e220bf00b513fa 4,208-247
 src/app/(auth)/login/page.tsx
   s_7295de5a5caaa6::t_fe1fa818615014 15,524,526-527
+  s_7295de5a5caaa6::t_3a325f2a7ed14c 15,524,526-527
+src/lib/__tests__/same-origin.test.ts
+  s_7295de5a5caaa6::t_cacdb51b5d15f7 1-26
+src/lib/same-origin.ts
+  s_7295de5a5caaa6::t_e0f0874fc0b0dc 1-17
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -31,6 +37,55 @@ src/app/(auth)/login/page.tsx
         "ai_accepted": 45
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 8,
+        "output_tokens": 1582,
+        "cache_creation_input_tokens": 122951,
+        "cache_read_input_tokens": 415536
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 8,
+          "output_tokens": 1582,
+          "cache_creation_input_tokens": 122951,
+          "cache_read_input_tokens": 415536
+        }
+      },
+      "tool_uses": {
+        "bash": 3
+      }
+    },
+    "carried": {
+      "total": {
+        "input_tokens": 16,
+        "output_tokens": 3319,
+        "cache_creation_input_tokens": 423329,
+        "cache_read_input_tokens": 1143854
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 16,
+          "output_tokens": 3319,
+          "cache_creation_input_tokens": 423329,
+          "cache_read_input_tokens": 1143854
+        }
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 8,
+        "output_tokens": 1582,
+        "cache_creation_input_tokens": 122951,
+        "cache_read_input_tokens": 415536
+      }
+    },
+    "origins": [
+      "00e5270855906463c9742ede8e7fa3f151ade3cd",
+      "4f164d1f4f62775b5883eccdeed6828e021cf615"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
