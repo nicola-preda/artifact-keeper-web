@@ -1,19 +1,28 @@
 src/app/(app)/repositories/_components/repo-settings-tab.test.tsx
   s_7295de5a5caaa6::t_62f0a42727c562 12,184,189,217,379-392,2235,2255-2258,2294,2317,2321,2331-2334,2369-2444
+  s_91241db92deb5d::t_292da5300791b0 184,189,217,379-392,2235,2255-2258,2294,2317,2321,2331-2334,2369-2444
 src/app/(app)/repositories/_components/repo-settings-tab.tsx
   s_7295de5a5caaa6::t_8d112c6e0801b2 28,95-112,693-707,734-735,1701,1703-1737,1741
+  s_91241db92deb5d::t_f7a05d102eeae6 28,95-112,693-707,734-735,1701,1703-1737,1741
 src/lib/__tests__/proxy-scan.test.ts
   s_7295de5a5caaa6::t_1d40c817baf0f0 184-193
+  s_91241db92deb5d::t_09df5266191e56 184-193
 src/lib/api/__tests__/proxy-scans.test.ts
   s_7295de5a5caaa6::t_619cf3516e3393 269-276
+  s_91241db92deb5d::t_d905715f584739 269-276
 src/lib/api/__tests__/scan-config.test.ts
   s_7295de5a5caaa6::t_7807098dcc6690 94-104,111
+  s_91241db92deb5d::t_510ff37657de34 94-104,111
 src/lib/api/scan-config.ts
   s_7295de5a5caaa6::t_513c609e08f6eb 3,29,56-57,83,106
 src/lib/proxy-scan.ts
   s_7295de5a5caaa6::t_1a1608968d28e8 227-229
+  s_91241db92deb5d::t_d83f7a7963b209 227-229
 src/types/proxy-scans.ts
   s_7295de5a5caaa6::t_2971d871a9259b 81,83,88
+  s_91241db92deb5d::t_a69f20dc576e22 81,83,88
+e2e/suites/interactions/repositories/scan-settings-record-only.spec.ts
+  s_91241db92deb5d::t_b32e114627587a 1-66
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -28,6 +37,14 @@ src/types/proxy-scans.ts
         "model": "claude-opus-5-5"
       },
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    },
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
   "commit_stats": {
@@ -43,6 +60,42 @@ src/types/proxy-scans.ts
         "ai_accepted": 221
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 72,
+        "output_tokens": 16055,
+        "cache_creation_input_tokens": 2036519,
+        "cache_read_input_tokens": 12024864
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 72,
+          "output_tokens": 16055,
+          "cache_creation_input_tokens": 2036519,
+          "cache_read_input_tokens": 12024864
+        }
+      },
+      "tool_uses": {
+        "agent": 2,
+        "bash": 16,
+        "read": 1,
+        "write": 1
+      }
+    },
+    "by_prompt": {
+      "s_91241db92deb5d": {
+        "input_tokens": 72,
+        "output_tokens": 16055,
+        "cache_creation_input_tokens": 2036519,
+        "cache_read_input_tokens": 12024864
+      }
+    },
+    "origins": [
+      "531a19a5dc969542263888d214b97a7aad4a9341",
+      "5444bf02c383b44ae5914218a3a7ba0d19af50c8"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
