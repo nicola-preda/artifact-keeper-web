@@ -1,13 +1,18 @@
 src/app/(app)/(admin)/groups/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_5d51698ebe2464 9-10,488-518,525-528,530-533,536,539
+  s_7295de5a5caaa6::t_36485c6d7c5c5b 9-10,488-518,525-528,530-533,536,539
 src/app/(app)/(admin)/groups/page.tsx
   s_7295de5a5caaa6::t_829e9f928082ab 57-59,101-105,107,147,150-157,161,210,212,308,481-482,499,503-515
+  s_7295de5a5caaa6::t_5a1f9b6af1b8eb 57-59,101-105,107,147,150-157,161,210,212,308,481-482,499,503-515
 src/app/(app)/(admin)/users/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_173de11f525a15 2065-2068,2114,2127-2144
+  s_7295de5a5caaa6::t_7d80044982e893 2065-2068,2114,2127-2144
 src/app/(app)/(admin)/users/page.tsx
   s_7295de5a5caaa6::t_56d2324f6a0063 195-197,296-297,711,730,742,752,783,787-791
+  s_7295de5a5caaa6::t_94cb7772e1bd70 195-197,296-297,711,730,742,752,783,787-791
 src/components/common/security-reviewer-switch.tsx
   s_7295de5a5caaa6::t_48b971ba5de411 3,5,10
+  s_7295de5a5caaa6::t_531069fc9c8f08 3,5,10
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -37,6 +42,39 @@ src/components/common/security-reviewer-switch.tsx
         "ai_accepted": 122
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 82,
+        "output_tokens": 25532,
+        "cache_creation_input_tokens": 461171,
+        "cache_read_input_tokens": 17273672
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 82,
+          "output_tokens": 25532,
+          "cache_creation_input_tokens": 461171,
+          "cache_read_input_tokens": 17273672
+        }
+      },
+      "tool_uses": {
+        "bash": 39
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 82,
+        "output_tokens": 25532,
+        "cache_creation_input_tokens": 461171,
+        "cache_read_input_tokens": 17273672
+      }
+    },
+    "origins": [
+      "3ec95a654e900ffba2374aada54a5e62cd7d9f05",
+      "b54f4d3a2e362311813f017ecd378b6af7c5897a"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
