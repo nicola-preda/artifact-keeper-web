@@ -1,19 +1,29 @@
 CHANGELOG.md
   s_7295de5a5caaa6::t_e5101ca61ea2ac 24
+  h_206b40f42abaf2 24
 src/lib/__tests__/proxy-scan.test.ts
   s_7295de5a5caaa6::t_9f9f7ed001f7ff 241-260
+  h_206b40f42abaf2 241-260
 src/lib/api/__tests__/proxy-scans.test.ts
   s_7295de5a5caaa6::t_1c6519bf8b821b 172-183
+  h_206b40f42abaf2 172-183
 src/lib/proxy-scan.ts
   s_7295de5a5caaa6::t_1049c02c3156a1 243-247,303-305
+  h_206b40f42abaf2 243-247,303-305
 src/types/proxy-scans.ts
   s_7295de5a5caaa6::t_7e3c8743b2afff 69-73,76
+  h_206b40f42abaf2 69-73,76
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.6",
   "base_commit_sha": "12f99e45715e2aff025504df398ac20ee6af2643",
   "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
   "sessions": {
     "s_7295de5a5caaa6": {
       "agent_id": {
@@ -37,6 +47,12 @@ src/types/proxy-scans.ts
         "ai_accepted": 47
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "12f99e45715e2aff025504df398ac20ee6af2643",
+      "9cbcdc40899baea4695164eb3d6fca1dafb46e1c"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
