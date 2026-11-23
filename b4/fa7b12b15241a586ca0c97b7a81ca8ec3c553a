@@ -1,0 +1,26 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_f4a0cd91f49a56 16
+e2e/suites/interactions/artifacts/artifact-detail.spec.ts
+  s_7295de5a5caaa6::t_db9b764ac1d3a9 1-119
+src/app/(app)/artifacts/[id]/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_2028f0c7d8cdb5 1-498
+src/app/(app)/artifacts/[id]/page.tsx
+  s_7295de5a5caaa6::t_1d084c183a2c8e 1-285
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b4fa7b12b15241a586ca0c97b7a81ca8ec3c553a",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
