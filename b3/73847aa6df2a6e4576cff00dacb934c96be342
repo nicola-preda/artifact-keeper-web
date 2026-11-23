@@ -1,29 +1,48 @@
 src/app/(app)/(admin)/users/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_51313d97bf725a 37,56,72,127,2086-2175
+  h_206b40f42abaf2 37,56,72,127,2086-2175
 src/app/(app)/(admin)/users/page.tsx
   s_7295de5a5caaa6::t_4b8c129a121ac8 17,30,119,322-340,429-438,785-795
+  h_206b40f42abaf2 17,30,119,322-340,429-438,785-795
 src/app/(app)/layout.tsx
   s_7295de5a5caaa6::t_47ee77211c31eb 5,22
+  h_206b40f42abaf2 5,22
 src/components/auth/__tests__/require-auth.test.tsx
   s_7295de5a5caaa6::t_78fa10b0413bc6 130-145
+  h_206b40f42abaf2 130-145
 src/components/auth/require-auth.tsx
   s_7295de5a5caaa6::t_c10d1c1e633793 8,11-12,21,29
+  h_206b40f42abaf2 8,11-12,21,29
 src/lib/__tests__/error-utils.test.ts
   s_7295de5a5caaa6::t_99e7f36194f479 9,11,489-505
+  h_206b40f42abaf2 9,11,489-505
 src/lib/api/__tests__/admin.test.ts
   s_7295de5a5caaa6::t_21b361a6e42c06 19-26,434-465
+  h_206b40f42abaf2 19-26,434-465
 src/lib/api/admin.ts
   s_7295de5a5caaa6::t_a392ec40bba4be 19,54-55,202-217
+  h_206b40f42abaf2 19,54-55,202-217
 src/lib/error-utils.ts
   s_7295de5a5caaa6::t_514da1dc25e5ab 150-170,191-194
+  h_206b40f42abaf2 150-170,191-194
 src/types/index.ts
   s_7295de5a5caaa6::t_c64ff0d98683c7 48-53
+  h_206b40f42abaf2 48-53
+src/components/layout/__tests__/impersonation-banner.test.tsx
+  h_206b40f42abaf2 1-133
+src/components/layout/impersonation-banner.tsx
+  h_206b40f42abaf2 1-67
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.6",
   "base_commit_sha": "b373847aa6df2a6e4576cff00dacb934c96be342",
   "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
   "sessions": {
     "s_7295de5a5caaa6": {
       "agent_id": {
@@ -72,7 +91,11 @@ src/types/index.ts
         "cache_creation_input_tokens": 3564,
         "cache_read_input_tokens": 224780
       }
-    }
+    },
+    "origins": [
+      "b373847aa6df2a6e4576cff00dacb934c96be342",
+      "f511f7cbdcdfaad390a4d0b1c943c3d54716bdf7"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
