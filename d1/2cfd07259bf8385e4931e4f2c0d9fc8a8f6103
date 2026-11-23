@@ -1,13 +1,20 @@
 src/app/(app)/(admin)/downloads/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_8d82cb27891d74 31,40,58,235-237,253-255,262,392-474,744
+  s_91241db92deb5d::t_11ba4cbc5a0d01 31,40,58,235-237,253-255,262,392-474,744
 src/app/(app)/(admin)/downloads/page.tsx
   s_7295de5a5caaa6::t_96554dffb38499 3-4,18,24-25,56-57,67,71-75,112,201,206-210,222-244,259-260,274-275,317-326,345-349,565-580,589,660,670-691
+  s_91241db92deb5d::t_f37993a89fe387 3-4,18,24-25,56-57,67,71-75,112,201,206-210,222-244,259-260,274-275,317-326,345-349,565-580,589,660,670-691
 src/lib/api/__tests__/downloads.test.ts
   s_7295de5a5caaa6::t_0e2c4fe10ae4db 113-123
+  s_91241db92deb5d::t_ae602886913692 113-123
 src/lib/api/downloads.ts
   s_7295de5a5caaa6::t_2a9f56984e54f9 10-12,81-82,177-178
+  s_91241db92deb5d::t_fa0419dfa14ebe 10-12,81-82,177-178
 src/lib/backend-version.ts
   s_7295de5a5caaa6::t_594d1528ce1ad0 65-71
+  s_91241db92deb5d::t_7e47e87955241e 65-71
+e2e/suites/interactions/admin/downloads-anonymous.spec.ts
+  s_91241db92deb5d::t_696bc0f5e2717f 1-66
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -22,6 +29,14 @@ src/lib/backend-version.ts
         "model": "claude-opus-5-5"
       },
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    },
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
   "commit_stats": {
@@ -37,6 +52,12 @@ src/lib/backend-version.ts
         "ai_accepted": 221
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "d12cfd07259bf8385e4931e4f2c0d9fc8a8f6103",
+      "ee50139bb27954910e6cd7556a2e9a4eb29719aa"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
