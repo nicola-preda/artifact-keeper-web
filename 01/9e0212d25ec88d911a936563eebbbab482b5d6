@@ -1,0 +1,24 @@
+e2e/suites/interactions/admin/migration.spec.ts
+  s_7295de5a5caaa6::t_4e671acced0ff8 78-96
+src/app/(app)/(admin)/migration/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_c6aa21ce358037 459,516-559
+src/app/(app)/(admin)/migration/page.tsx
+  s_7295de5a5caaa6::t_eb1460e9c95e2b 1244-1249,1273-1275,1279-1284
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "019e0212d25ec88d911a936563eebbbab482b5d6",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
