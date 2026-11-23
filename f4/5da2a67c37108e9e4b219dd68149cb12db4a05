@@ -1,29 +1,48 @@
 src/app/(app)/(admin)/users/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_bdcee81448acfc 38,57,73,105,2063-2152
+  h_206b40f42abaf2 38,57,73,105,2063-2152
 src/app/(app)/(admin)/users/page.tsx
   s_7295de5a5caaa6::t_9d722c1e3ad2fd 17,30,121,335-353,441-450,824-834
+  h_206b40f42abaf2 17,30,121,335-353,441-450,824-834
 src/app/(app)/layout.tsx
   s_7295de5a5caaa6::t_7de18c4bcbd886 5,20
+  h_206b40f42abaf2 5,20
 src/components/auth/__tests__/require-auth.test.tsx
   s_7295de5a5caaa6::t_fbcc3275cc28b0 130-145
+  h_206b40f42abaf2 130-145
 src/components/auth/require-auth.tsx
   s_7295de5a5caaa6::t_a9ccbb013f2390 8,11-12,21,29
+  h_206b40f42abaf2 8,11-12,21,29
 src/lib/__tests__/error-utils.test.ts
   s_7295de5a5caaa6::t_94a82c6ad0719d 10,12,596-612
+  h_206b40f42abaf2 10,12,596-612
 src/lib/api/__tests__/admin.test.ts
   s_7295de5a5caaa6::t_7adb7fc1aa903c 19-26,403-434
+  h_206b40f42abaf2 19-26,403-434
 src/lib/api/admin.ts
   s_7295de5a5caaa6::t_7256348b4afb5b 19,50-51,198-213
+  h_206b40f42abaf2 19,50-51,198-213
 src/lib/error-utils.ts
   s_7295de5a5caaa6::t_a9ba7e79023fc1 189-209,216-219
+  h_206b40f42abaf2 189-209,216-219
 src/types/index.ts
   s_7295de5a5caaa6::t_c8e3ba6ca69acd 45-50
+  h_206b40f42abaf2 45-50
+src/components/layout/__tests__/impersonation-banner.test.tsx
+  h_206b40f42abaf2 1-133
+src/components/layout/impersonation-banner.tsx
+  h_206b40f42abaf2 1-67
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.6",
   "base_commit_sha": "f45da2a67c37108e9e4b219dd68149cb12db4a05",
   "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
   "sessions": {
     "s_7295de5a5caaa6": {
       "agent_id": {
@@ -47,6 +66,12 @@ src/types/index.ts
         "ai_accepted": 269
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "f45da2a67c37108e9e4b219dd68149cb12db4a05",
+      "f511f7cbdcdfaad390a4d0b1c943c3d54716bdf7"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
