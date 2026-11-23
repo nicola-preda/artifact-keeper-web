@@ -20,5 +20,19 @@ src/lib/api/replication.ts
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
     }
   },
+  "commit_stats": {
+    "human_additions": 0,
+    "unknown_additions": 164,
+    "ai_additions": 292,
+    "ai_accepted": 292,
+    "git_diff_deleted_lines": 24,
+    "git_diff_added_lines": 456,
+    "tool_model_breakdown": {
+      "claude::claude-opus-5-5": {
+        "ai_additions": 292,
+        "ai_accepted": 292
+      }
+    }
+  },
   "proton_build": "1.7.6-proton.8"
 }
