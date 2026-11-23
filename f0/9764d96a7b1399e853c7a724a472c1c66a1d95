@@ -8,12 +8,14 @@ src/app/(app)/repositories/_components/repo-detail-content.tsx
   s_7295de5a5caaa6::t_22dac42604d442 483-484,487-488,496-498
 src/app/(app)/repositories/_components/repo-settings-tab.test.tsx
   s_7295de5a5caaa6::t_1bac47046fe272 2594,2638,2647,2651,2659,2662,2666-2712,2714,2745
+  s_91241db92deb5d::t_0d4c346b9a9459 2594,2638,2647,2651,2659,2662,2666-2712,2714,2745
 src/app/(app)/repositories/_components/repo-settings-tab.tsx
   s_7295de5a5caaa6::t_e6319cbf9735ee 651-663,693-697
 src/app/(app)/repositories/_components/scan-on-proxy-note.tsx
   s_7295de5a5caaa6::t_4d56fd02337a28 8-9,45
 src/lib/__tests__/proxy-scan.test.ts
   s_7295de5a5caaa6::t_7f81659451f60f 319,373,376,379,388-396
+  s_91241db92deb5d::t_81bb4a31173e3c 319,373,376,379,388-396
 src/lib/__tests__/scan-on-proxy-formats.test.ts
   s_7295de5a5caaa6::t_f168987a0e1670 12-15,35-51,54-57,105-122
 src/lib/api/__tests__/scan-config.test.ts
@@ -44,6 +46,14 @@ src/types/security.ts
         "model": "claude-opus-5-5"
       },
       "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    },
+    "s_91241db92deb5d": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "2922876e-410c-4c46-b7ea-c707d046fd52",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <nicola.preda@proton.ch>"
     }
   },
   "commit_stats": {
@@ -59,6 +69,40 @@ src/types/security.ts
         "ai_accepted": 268
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 242,
+        "output_tokens": 43802,
+        "cache_creation_input_tokens": 1487473,
+        "cache_read_input_tokens": 43684002
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 242,
+          "output_tokens": 43802,
+          "cache_creation_input_tokens": 1487473,
+          "cache_read_input_tokens": 43684002
+        }
+      },
+      "tool_uses": {
+        "bash": 99,
+        "taskstop": 1
+      }
+    },
+    "by_prompt": {
+      "s_91241db92deb5d": {
+        "input_tokens": 242,
+        "output_tokens": 43802,
+        "cache_creation_input_tokens": 1487473,
+        "cache_read_input_tokens": 43684002
+      }
+    },
+    "origins": [
+      "658801c43c04d44363a4dc94cb5f5dcab221a960",
+      "f09764d96a7b1399e853c7a724a472c1c66a1d95"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
