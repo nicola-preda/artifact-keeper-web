@@ -1,9 +1,12 @@
 e2e/suites/interactions/repositories/artifact-browser-grouping.spec.ts
   s_7295de5a5caaa6::t_ba0ea9282f7e5e 276,281-284,311-336
+  s_7295de5a5caaa6::t_8cee8a95636750 276,281-284,311-336
 src/app/(app)/repositories/_components/__tests__/artifact-browser-toggle.test.tsx
   s_7295de5a5caaa6::t_f98fb0120648ac 41-46,49,51,93-106,165,167
+  s_7295de5a5caaa6::t_39b92b0635f962 41-46,49,51,93-106,165,167
 src/app/(app)/repositories/_components/artifact-browser-toggle.tsx
   s_7295de5a5caaa6::t_d1960adb4fc7ad 41-44,46-53,75-76
+  s_7295de5a5caaa6::t_64944adfda44be 41-44,46-53,75-76
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -33,6 +36,12 @@ src/app/(app)/repositories/_components/artifact-browser-toggle.tsx
         "ai_accepted": 69
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "62d40df3525dc862dc0e88aef2660815b4886303",
+      "b975d4531f742524903b2b540ef5e8f88812b159"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
