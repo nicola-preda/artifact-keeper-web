@@ -1,9 +1,12 @@
 src/app/(app)/(admin)/users/__tests__/page.test.tsx
   s_7295de5a5caaa6::t_b8caf95f3ab115 131-135,2123-2133
+  s_7295de5a5caaa6::t_aacd929398657a 131-135,2123-2133
 src/app/(app)/(admin)/users/page.tsx
   s_7295de5a5caaa6::t_1fa3de80d82637 4,121,326-327
+  s_7295de5a5caaa6::t_4783f64bec4f70 4,121,326-327
 src/lib/api/system-config.ts
   s_7295de5a5caaa6::t_4bab933dd262f5 69-70,146-147,180,201
+  s_7295de5a5caaa6::t_c1e71155375890 69-70,146-147,180,201
 ---
 {
   "schema_version": "authorship/3.0.0",
@@ -33,6 +36,43 @@ src/lib/api/system-config.ts
         "ai_accepted": 26
       }
     }
+  },
+  "token_usage": {
+    "attributable": {
+      "total": {
+        "input_tokens": 122,
+        "output_tokens": 41174,
+        "cache_creation_input_tokens": 2357970,
+        "cache_read_input_tokens": 28835076
+      },
+      "by_tool_model": {
+        "claude::claude-opus-5-5": {
+          "input_tokens": 122,
+          "output_tokens": 41174,
+          "cache_creation_input_tokens": 2357970,
+          "cache_read_input_tokens": 28835076
+        }
+      },
+      "tool_uses": {
+        "agent": 3,
+        "askuserquestion": 1,
+        "bash": 40,
+        "edit": 1,
+        "workflow": 1
+      }
+    },
+    "by_prompt": {
+      "s_7295de5a5caaa6": {
+        "input_tokens": 122,
+        "output_tokens": 41174,
+        "cache_creation_input_tokens": 2357970,
+        "cache_read_input_tokens": 28835076
+      }
+    },
+    "origins": [
+      "6a9cab77db773f2abdb62bffab81f13b1d2373f3",
+      "9a215bdc4b048fc6663ee2113abd6c7176e09af1"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
