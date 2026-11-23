@@ -1,15 +1,25 @@
 src/app/(app)/(protected)/replication/page.tsx
   s_7295de5a5caaa6::t_57d33901eccf88 16-20,24,29-30,63,93-178,186-188,214,237-239,245-246,251-252,258-259,261-264,270-280,369-389,391-414,767-781
+  h_206b40f42abaf2 16-20,24,29-30,63,93-178,186-188,214,237-239,245-246,251-252,258-259,261-264,270-280,369-389,391-414,767-781
 src/lib/api/__tests__/replication.test.ts
   s_7295de5a5caaa6::t_c9229ac76bd48b 21-22,36-37,291-347
+  h_206b40f42abaf2 21-22,36-37,291-347
 src/lib/api/replication.ts
   s_7295de5a5caaa6::t_16ece56ea09030 12-13,90-96,102-112,197-198,284-309
+  h_206b40f42abaf2 12-13,90-96,102-112,197-198,284-309
+src/app/(app)/(protected)/replication/__tests__/page.test.tsx
+  h_206b40f42abaf2 1-164
 ---
 {
   "schema_version": "authorship/3.0.0",
   "git_ai_version": "1.7.6",
   "base_commit_sha": "61e8ef7166fc7640e86242b2e10e3aae682668ab",
   "prompts": {},
+  "humans": {
+    "h_206b40f42abaf2": {
+      "author": "Nicola Preda <nicola.preda@proton.ch>"
+    }
+  },
   "sessions": {
     "s_7295de5a5caaa6": {
       "agent_id": {
@@ -33,6 +43,12 @@ src/lib/api/replication.ts
         "ai_accepted": 292
       }
     }
+  },
+  "token_usage": {
+    "origins": [
+      "61e8ef7166fc7640e86242b2e10e3aae682668ab",
+      "648f883128040d5bdbe20680f91999c1805509c7"
+    ]
   },
   "proton_build": "1.7.6-proton.8"
 }
