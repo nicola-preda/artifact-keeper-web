@@ -1,0 +1,44 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_afe6d40b20baf7 15
+e2e/suites/interactions/security/package-exceptions.spec.ts
+  s_7295de5a5caaa6::t_d8c040bdf808dc 1-104
+src/app/(app)/exceptions/page.test.tsx
+  s_7295de5a5caaa6::t_bebc683963c410 1-883
+src/app/(app)/exceptions/page.tsx
+  s_7295de5a5caaa6::t_209ac156b7a11c 1-846
+src/app/(app)/exceptions/request/page.test.tsx
+  s_7295de5a5caaa6::t_982320c3f16e5a 1-259
+src/app/(app)/exceptions/request/page.tsx
+  s_7295de5a5caaa6::t_e42df04b4a8210 1-223
+src/components/auth/__tests__/require-capability.test.tsx
+  s_7295de5a5caaa6::t_d2a4b2c06e1ca2 1-139
+src/components/auth/require-capability.tsx
+  s_7295de5a5caaa6::t_5e6ff4e578926d 1-73
+src/components/layout/__tests__/app-sidebar.test.tsx
+  s_7295de5a5caaa6::t_74cff5741ebe65 68-69,144-149,152,328-383
+src/components/layout/app-sidebar.tsx
+  s_7295de5a5caaa6::t_a2de712167841d 26-27,57-60,93,120,125-129,189-192,275-281
+src/lib/api/__tests__/exceptions.test.ts
+  s_7295de5a5caaa6::t_8619f5f0ae5725 1-291
+src/lib/api/exceptions.ts
+  s_7295de5a5caaa6::t_d0415aed33e2ce 1-221
+src/types/index.ts
+  s_7295de5a5caaa6::t_0ebbc571d4bd49 38-44
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "e80d6c23cfe6d08995db626e0f587b9179146c2c",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
