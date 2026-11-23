@@ -1,0 +1,28 @@
+src/app/(app)/(admin)/groups/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_5d51698ebe2464 9-10,488-518,525-528,530-533,536,539
+src/app/(app)/(admin)/groups/page.tsx
+  s_7295de5a5caaa6::t_829e9f928082ab 57-59,101-105,107,147,150-157,161,210,212,308,481-482,499,503-515
+src/app/(app)/(admin)/users/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_173de11f525a15 2065-2068,2114,2127-2144
+src/app/(app)/(admin)/users/page.tsx
+  s_7295de5a5caaa6::t_56d2324f6a0063 195-197,296-297,711,730,742,752,783,787-791
+src/components/common/security-reviewer-switch.tsx
+  s_7295de5a5caaa6::t_48b971ba5de411 3,5,10
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "b54f4d3a2e362311813f017ecd378b6af7c5897a",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
