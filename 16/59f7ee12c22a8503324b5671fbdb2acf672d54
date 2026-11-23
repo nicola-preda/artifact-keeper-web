@@ -1,0 +1,30 @@
+CHANGELOG.md
+  s_7295de5a5caaa6::t_692b122226d584 12
+e2e/suites/interactions/security/scan-queue.spec.ts
+  s_7295de5a5caaa6::t_3b81b104624891 1-79
+src/app/(app)/(admin)/security/queue/__tests__/page.test.tsx
+  s_7295de5a5caaa6::t_da2370ea7fef88 1-575
+src/app/(app)/(admin)/security/queue/page.tsx
+  s_7295de5a5caaa6::t_6e72559f12bde8 1-347
+src/lib/api/__tests__/scan-queue.test.ts
+  s_7295de5a5caaa6::t_083af0d15332c4 1-71
+src/lib/api/scan-queue.ts
+  s_7295de5a5caaa6::t_a43c8e904772a1 1-67
+---
+{
+  "schema_version": "authorship/3.0.0",
+  "git_ai_version": "1.7.6",
+  "base_commit_sha": "1659f7ee12c22a8503324b5671fbdb2acf672d54",
+  "prompts": {},
+  "sessions": {
+    "s_7295de5a5caaa6": {
+      "agent_id": {
+        "tool": "claude",
+        "id": "c56cd63b-ec7b-4cb0-bc81-e8eb3a40f352",
+        "model": "claude-opus-5-5"
+      },
+      "human_author": "Nicola Preda <101360330+nicola-preda@users.noreply.github.com>"
+    }
+  },
+  "proton_build": "1.7.6-proton.8"
+}
